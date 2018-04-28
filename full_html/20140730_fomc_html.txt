@@ -1,0 +1,1072 @@
+<!DOCTYPE doctype html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0 maximum-scale=1.6, user-scalable=1" name="viewport"/>
+<meta content="Board of Governors of the Federal Reserve System, Federal Reserve Board of Governors, Federal Reserve Board, Federal Reserve" name="keywords"/>
+<meta content="The Federal Reserve Board of Governors in Washington DC." name="description"/>
+<meta content="Board of Governors of the Federal Reserve System" property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="" property="og:image"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="" name="twitter:image"/>
+<title>The Fed - Monetary Policy: </title>
+<link href="/css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="/css/bluesteel-theme.css" rel="stylesheet" type="text/css">
+<script src="/js/modernizr-latest.js" type="text/javascript"></script>
+<script src="/js/grunticon.loader.js"></script>
+<script>
+        grunticon(["/css/icons.data.svg.css", "/css/icons.data.png.css", "/css/icons.fallback.css"]);
+    </script>
+<noscript>
+<link href="/css/icons.fallback.css" rel="stylesheet">
+</link></noscript>
+<script src="/js/angular.min.js" type="text/javascript"></script>
+<script src="/js/app.js" type="text/javascript"></script>
+<!-- For Linear Gradients in IE9 or greater -->
+<!--[if gte IE 9]>
+        <style type="text/css">
+          .gradient {
+             filter: none;
+          }
+        </style>
+      <![endif]-->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></link></link></meta></head>
+<body ng-app="pubwebApp">
+<a class="globalskip" href="#content">Skip to main content</a>
+<nav class="nav-primary-mobile" id="nav-primary-mobile">
+</nav>
+<div class="t1_nav navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="t1_container clearfix">
+<a class="btn btn-default icon-FRB_logo-bw visible-xs-table-cell t1__btnlogo" href="/default.htm" id="logo" role="button"><span class="sr-only">Back to Home</span>
+</a>
+<a class="visible-xs-table-cell t1__banner" href="/default.htm" id="banner" role="button" title="Link to Home Page">Board of Governors of the Federal Reserve System</a>
+<ul class="nav navbar-nav visible-md visible-lg t1_toplinks">
+<li class="navbar-text navbar-text__social">
+<span class="navbar-link" tabindex="0">Stay Connected</span>
+<ul class="nav navbar-nav t1_social">
+<li class="social__item"><a class="noIcon" data-icon="facebook" href="https://www.facebook.com/federalreserve"><div class="icon-facebook-color icon icon__sm"></div><span class="sr-only">Link to Federal Reserve Facebook Page</span></a></li>
+<li class="social__item"><a class="noIcon" data-icon="twitter" href="https://twitter.com/federalreserve"><div class="icon-twitter-color icon icon__sm"></div><span class="sr-only">Link to Federal Reserve Twitter Page</span></a></li>
+<li class="social__item"><a class="noIcon" data-icon="youtube" href="https://www.youtube.com/federalreserve"><div class="icon-youtube-color icon icon__sm"></div><span class="sr-only">Link to Federal Reserve YouTube Page</span></a></li>
+<li class="social__item"><a class="noIcon" data-icon="flickr" href="https://www.flickr.com/photos/federalreserve/"><div class="icon-flickr-color icon icon__sm"></div><span class="sr-only">Link to Federal Reserve Flickr Page</span></a></li>
+<li class="social__item"><a class="noIcon" data-icon="linkedin" href="https://www.linkedin.com/company/federal-reserve-board"><div class="icon-linkedin-color icon icon__sm"></div><span class="sr-only">Federal Reserve LinkedIn Page</span></a></li>
+<li class="social__item"><a class="noIcon" data-icon="rss" href="/feeds/feeds.htm"><div class="icon-rss-color icon icon__sm"></div><span class="sr-only">Subscribe to RSS</span></a></li>
+<li class="social__item"><a class="noIcon" data-icon="email" href="/subscribe.htm"><div class="icon-email-color icon icon__sm"></div><span class="sr-only">Subscribe to Email</span></a></li>
+</ul>
+</li>
+<li class="navbar-text"><a class="navbar-link" href="/recentpostings.htm">Recent Postings</a></li>
+<li class="navbar-text"><a class="navbar-link" href="/newsevents/calendar.htm">Calendar</a></li>
+<li class="navbar-text"><a class="navbar-link" href="/publications.htm">Publications</a></li>
+<li class="navbar-text"><a class="navbar-link" href="/sitemap.htm">Site Map</a></li>
+<li class="navbar-text"><a class="navbar-link" href="/azindex.htm">A-Z index</a></li>
+<li class="navbar-text"><a class="navbar-link" href="/careers.htm">Careers</a></li>
+<li class="navbar-text"><a class="navbar-link" href="/faqs.htm">FAQs</a></li>
+<li class="navbar-text"><a class="navbar-link" href="/videos.htm">Videos</a></li>
+<li class="navbar-text"><a class="navbar-link" href="/aboutthefed/contact-us-topics.htm">Contact</a></li>
+</ul>
+<form action="//www.fedsearch.org/board_public/search" class="nav navbar-form hidden-xs nav__search" method="get" role="search">
+<div class="form-group input-group input-group-sm">
+<label class="sr-only" for="t1search">Search</label>
+<input class="nav__input form-control" id="t1search" name="text" placeholder="Search" type="text">
+<span class="input-group-btn">
+<button class="nav__button btn btn-default" id="headerTopLinksSearchFormSubmit" name="Search" type="submit">
+<span class="sr-only">Submit Search Button</span>
+<span class="icon-magnifying-glass icon icon__xs icon--right"></span>
+</button>
+</span>
+</input></div>
+<div class="nav__advanced"><a class="noIcon" href="//www.fedsearch.org/board_public">Advanced</a></div>
+</form>
+<div class="btn-group visible-xs-table-cell visible-sm-table-cell t1__dropdown">
+<span class="icon icon__md icon--right dropdown-toggle icon-options-nav" data-toggle="dropdown">
+<span class="sr-only">Toggle Dropdown Menu</span>
+</span>
+</div>
+</div>
+</div>
+<header class="jumbotron hidden-xs">
+<a class="jumbotron__link" href="/default.htm" title="Link to Home Page">
+<div class="container-fluid">
+<h1 class="jumbotron__heading">Board of Governors of the Federal Reserve System</h1>
+<p class="jumbotron__content"><em>The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.</em></p>
+</div>
+</a>
+</header>
+<div class="t2__offcanvas visible-xs-block">
+<div class="navbar-header">
+<button class="offcanvas__toggle icon-offcanvas-nav" data-canvas="body" data-target="#offcanvasT2Menu" data-toggle="offcanvas" type="button">
+<span class="sr-only">Main Menu Toggle Button</span>
+</button>
+<span class="navbar-brand offcanvas__title">Sections</span>
+<button class="offcanvas__search icon-search-nav" data-target="#navbar-collapse" data-toggle="collapse" type="button">
+<span class="sr-only">Search Toggle Button</span>
+</button>
+</div>
+<div class="navbar-collapse collapse mobile-form" id="navbar-collapse">
+<form action="//www.fedsearch.org/board_public/search" class="navbar-form" method="get" role="search">
+<div class="form-group input-group mobileSearch">
+<label class="sr-only" for="t2search">Search</label>
+<input class="form-control" id="t2search" name="text" placeholder="Search" type="text">
+<span class="input-group-btn">
+<span class="sr-only">Search Submit Button</span>
+<button class="btn btn-default" type="submit">Submit</button>
+</span>
+</input></div>
+</form>
+</div>
+</div>
+<nav class="nav-primary navbar hidden-xs" id="nav-primary" role="navigation">
+<ul class="nav navbar-nav" role="menubar">
+<li class="dropdown nav-about dropdown--3Col" role="menuitem">
+<a aria-haspopup="true" class="sr-only-focusable" href="/aboutthefed.htm" id="aboutMenu">About<br/>the Fed</a>
+<ul aria-labelledby="aboutMenu" class="dropdown-menu sub-nav-group navmenu-nav" role="menu">
+<li>
+<div class="row">
+<ul class="col-sm-4 list-unstyled">
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/structure-federal-reserve-system.htm">Structure of the Federal Reserve System</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/pf.htm">Purposes &amp; Functions</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/bios/board/default.htm">Board Members</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/advisorydefault.htm">Advisory Councils</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/federal-reserve-system.htm">Federal Reserve Banks</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/fract.htm">Federal Reserve Act</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/currency.htm">Currency</a>
+</li>
+</ul>
+<ul class="col-sm-4 list-unstyled">
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/boardmeetings/meetingdates.htm">Board Meetings</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/boardvotes.htm">Board Votes</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/diversityinclusion.htm">Diversity &amp; Inclusion</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/careers.htm">Careers</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/procurement/about.htm">Do Business with the Board</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/k8.htm">Holidays Observed - K.8</a>
+</li>
+</ul>
+<ul class="col-sm-4 list-unstyled">
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/contact-us-topics.htm">Contact </a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/foia/about_foia.htm">Requesting Information (FOIA)</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/faqs.htm">FAQs</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/fed-financial-statements.htm">Fed Financial Statements</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown nav-news dropdown--1Col" role="menuitem">
+<a aria-haspopup="true" class="sr-only-focusable" href="/newsevents.htm" id="newsMenu">News<br/>&amp; Events</a>
+<ul aria-labelledby="newsMenu" class="dropdown-menu sub-nav-group navmenu-nav" role="menu">
+<li>
+<a class="sr-only-focusable" href="/newsevents/pressreleases.htm">Press Releases</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/newsevents/speeches.htm">Speeches</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/newsevents/testimony.htm">Testimony</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/newsevents/calendar.htm">Calendar</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/videos.htm">Videos
+</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/photogallery.htm">Photo Gallery
+</a>
+</li>
+</ul>
+</li>
+<li class="dropdown nav-monetary dropdown--2Col" role="menuitem">
+<a aria-haspopup="true" class="sr-only-focusable" href="/monetarypolicy.htm" id="monetaryMenu">Monetary<br/>Policy</a>
+<ul aria-labelledby="monetaryMenu" class="dropdown-menu sub-nav-group navmenu-nav" role="menu">
+<li>
+<div class="row">
+<ul class="col-sm-6 list-unstyled">
+<li class="nav__header">
+<p>
+<strong>Federal Open Market Committee</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/monetarypolicy/fomc.htm">About the FOMC</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/monetarypolicy/fomccalendars.htm">Meeting calendars and information</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/monetarypolicy/fomc_historical.htm">Transcripts and other historical materials</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/monetarypolicy/fomc_projectionsfaqs.htm">FAQs</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Monetary Policy Principles and Practice</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/monetarypolicy/monetary-policy-principles-and-practice.htm">Notes</a>
+</li>
+</ul>
+<ul class="col-sm-6 list-unstyled">
+<li class="nav__header">
+<p>
+<strong>Policy Implementation</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/monetarypolicy/policy-normalization.htm">Policy Normalization</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/monetarypolicy/policytools.htm">Policy Tools</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Reports</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/monetarypolicy/mpr_default.htm">Monetary Policy Report</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/monetarypolicy/beige-book-default.htm">Beige Book</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/monetarypolicy/quarterly-balance-sheet-developments-report.htm">Quarterly Report on Federal Reserve Balance Sheet Developments</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown nav-supervision dropdown--fw" role="menuitem">
+<a aria-haspopup="true" class="sr-only-focusable" href="/supervisionreg.htm" id="supervisionMenu">Supervision<br/>&amp; Regulation</a>
+<ul aria-labelledby="supervisionMenu" class="dropdown-menu sub-nav-group navmenu-nav" role="menu">
+<li>
+<div class="row">
+<ul class="col-sm-3 col-nav list-unstyled">
+<li class="nav__header">
+<p>
+<strong>Institution Supervision</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/community-and-regional-financial-institutions.htm">Community &amp; Regional Financial Institutions</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/large-financial-institutions.htm">Large Financial Institutions</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/foreign-banking-organizations.htm">Foreign Banking Organizations</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/financial-market-utility-supervision.htm">Financial Market Utilities</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/consumer-compliance.htm">Consumer Compliance</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+<p>
+<strong>Reporting Forms</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/apps/reportforms/default.aspx">All Reporting Forms</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/reporting-forms-whats-new.htm">Recent Updates</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/apps/reportforms/review.aspx">Information collections under review</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/apps/reportforms/categoryindex.aspx?xTdTa+FaSlI=">Financial Statements</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/apps/reportforms/categoryindex.aspx?+PhkJwiBjbA=">Applications/structure change</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/apps/reportforms/categoryindex.aspx?1/RIXO/UduI=">Federal Financial Institutions Examination Council (FFIEC)</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/apps/reportforms/categoryindex.aspx?L877VwEj9Ss=">Municipal &amp; Government Securities</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+<p>
+<strong>Supervision &amp; Regulation Letters</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/srletters/srletters.htm">By Year</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/topics/topics.htm">By Topic</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Banking Applications &amp; Legal Developments</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/application-process.htm">Application Process</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/board-and-reserve-bank-actions.htm">Board &amp; Reserve Bank Action</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/legal-developments.htm">Enforcement Actions &amp; Legal Developments</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+<p>
+<strong>Regulatory Resources</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/reglisting.htm">Regulations</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/publications/supmanual.htm">Manuals</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/basel/basel-default.htm">Basel Regulatory Framework</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/volcker-rule.htm">Volcker Rule</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/training-and-assistance-landing.htm">Education, Training, and Assistance</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+<p>
+<strong>Banking &amp; Data Structure</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/apps/reportforms/insider.aspx">Beneficial Ownership reports</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/lbr/">Large Commercial Banks</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/mob/">Minority-Owned Depository Institutions</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/iba/">U.S. Offices of Foreign Entities</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/fhc.htm">Financial Holding Companies</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/isb-default.htm">Interstate Branching</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/suds.htm">Securities Underwriting &amp; Dealing Subsidiaries</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown nav-payment dropdown--fw" role="menuitem">
+<a aria-haspopup="true" class="sr-only-focusable" href="/paymentsystems.htm" id="paymentMenu">Payment<br/>Systems</a>
+<ul aria-labelledby="paymentMenu" class="dropdown-menu sub-nav-group navmenu-nav" role="menu">
+<li>
+<div class="row">
+<ul class="col-sm-3 col-nav list-unstyled">
+<li class="nav__header">
+<p>
+<strong>Regulations &amp; Statutes</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/regcc-about.htm">Regulation CC (Availability of Funds and Collection of Checks)</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/regii-about.htm">Regulation II (Debit Card Interchange Fees and Routing)</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/reghh-about.htm">Regulation HH (Financial Market Utilities)</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/other-regulations.htm">Other Regulations and Statutes</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+<p>
+<strong>Payment Policies</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/pfs_about.htm">Federal Reserve's Key Policies for the Provision of Financial Services</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/oo_about.htm">Overnight Overdrafts</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/psr_about.htm">Payment System Risk</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/telecomm.htm">Sponsorship for Priority Telecommunication Services</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+<p>
+<strong>Reserve Bank Payment Services &amp; Data</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/fedach_about.htm">Automated Clearinghouse Services</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/check_about.htm">Check Services</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/coin_about.htm">Currency and Coin Services</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/psr_data.htm">Daylight Overdrafts and Fees</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/fedfunds_about.htm">Fedwire Funds Services</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/fedsecs_about.htm">Fedwire Securities Services</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/fisagy_about.htm">Fiscal Agency Services</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/natl_about.htm">National Settlement Service</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+<p>
+<strong>Financial Market Utilities &amp; Infrastructures</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/over_about.htm">Supervision &amp; Oversight of Financial Market Infrastructures</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/designated_fmu_about.htm">Designated Financial Market Utilities</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/int_standards.htm">International Standards for Financial Market Infrastructures</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+<p>
+<strong>Research, Committees, and Forums</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/payres_about.htm">Payment Research</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/pspa_committee.htm">Payments System Policy Advisory Committee</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/paymentsystems/forums.htm">Forums</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown nav-econ dropdown--right dropdown--2Col" role="menuitem">
+<a aria-haspopup="true" class="sr-only-focusable" href="/econres.htm" id="econMenu">Economic<br/>Research</a>
+<ul aria-labelledby="econMenu" class="dropdown-menu sub-nav-group navmenu-nav" role="menu">
+<li>
+<div class="row">
+<ul class="col-sm-6 list-unstyled">
+<li class="nav__header">
+<p>
+<strong>Working Papers and Notes</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/econres/feds/index.htm">Finance and Economics Discussion Series (FEDS)</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/econres/notes/feds-notes/default.htm">FEDS Notes</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/econres/ifdp/index.htm">International Finance Discussion Papers (IFDP)</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/econres/notes/ifdp-notes/default.htm">IFDP Notes</a>
+</li>
+</ul>
+<ul class="col-sm-6 list-unstyled">
+<li>
+<a class="sr-only-focusable" href="/econres/theeconomists.htm">Meet the Economists</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Models and Tools</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/econres/us-models-about.htm">FRB/US Model</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/econres/edo-models-about.htm">Estimated Dynamic Optimization (EDO) Model</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/econres/scfindex.htm">Survey of Consumer Finances (SCF)</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown nav-data dropdown--right dropdown--4Col" role="menuitem">
+<a aria-haspopup="true" class="sr-only-focusable" href="/data.htm" id="dataMenu">Data</a>
+<ul aria-labelledby="dataMenu" class="dropdown-menu sub-nav-group navmenu-nav" role="menu">
+<li>
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li class="nav__header">
+<p>
+<strong>Bank Assets and Liabilities</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/h3/current/default.htm">Aggregate Reserves of Depository Institutions and the Monetary Base - H.3</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/h8/current/default.htm">Assets and Liabilities of Commercial Banks in the U.S. - H.8</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/data/assetliab/current.htm">Assets and Liabilities of U.S. Branches and Agencies of Foreign Banks</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/chargeoff/">Charge-Off and Delinquency Rates on Loans and Leases at Commercial Banks</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/data/sloos/sloos.htm">Senior Loan Officer Opinion Survey on Bank Lending Practices</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/e2/current/">Survey of Terms of Business Lending - E.2</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li class="nav__header">
+<p>
+<strong>Bank Structure Data</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/lbr/">Large Commercial Banks</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/mob/">Minority-Owned Depository Institutions</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/iba/default.htm">Structure and Share Data for the U.S. Offices of Foreign Banks</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Business Finance</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/cp/">Commercial Paper</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/g20/current/g20.htm">Finance Companies - G.20</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/data/govsecure/current.htm">New Security Issues, State and Local Governments</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/data/corpsecure/current.htm">New Security Issues, U.S. Corporations</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Dealer Financing Terms</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/data/scoos/scoos.htm">Senior Credit Officer Opinion Survey on Dealer Financing Terms</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li class="nav__header">
+<p>
+<strong>Exchange Rates and International Data</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/h10/current/">Foreign Exchange Rates - H.10/G.5</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/data/intlsumm/current.htm">International Summary Statistics</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/data/secholdtrans/current.htm">Securities Holdings and Transactions</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/data/statbanksus/current.htm">Statistics Reported by Banks and Other Financial Firms in the United States</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/iba/default.htm">Structure and Share Data for U.S. Offices of Foreign Banks</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Financial Accounts</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/z1/current/default.htm">Financial Accounts of the United States - Z.1</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li class="nav__header">
+<p>
+<strong>Household Finance</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/g19/current/default.htm">Consumer Credit - G.19</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/housedebt/default.htm">Household Debt Service and Financial Obligations Ratios</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/data/mortoutstand/current.htm">Mortgage Debt Outstanding</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/econres/scfindex.htm">Survey of Consumer Finances (SCF)</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Industrial Activity</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/g17/Current/default.htm">Industrial Production and Capacity Utilization - G.17</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Interest Rates</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/h15/">Selected Interest Rates - H.15</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Micro Data Reference Manual (MDRM)</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/apps/mdrm/">Micro and Macro Data Collections</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Money Stock and Reserve Balances</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/h41/">Factors Affecting Reserve Balances - H.4.1</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/releases/h6/current/default.htm">Money Stock Measures - H.6</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown nav-consumer dropdown--right dropdown--4Col" role="menuitem">
+<a aria-haspopup="true" class="sr-only-focusable" href="/consumerscommunities.htm" id="consumerMenu">Consumers<br/>&amp; Communities</a>
+<ul aria-labelledby="consumerMenu" class="dropdown-menu sub-nav-group navmenu-nav" role="menu">
+<li>
+<div class="row">
+<ul class="col-sm-3 list-unstyled">
+<li class="nav__header">
+<p>
+<strong>Regulations</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/consumerscommunities/cra_about.htm">Community Reinvestment Act</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/reglisting.htm">All Regulations</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Supervision &amp; Enforcement</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/supervisionreg/caletters/caletters.htm">CA Letters</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/apps/enforcementactions/default.aspx">Enforcement Actions</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/consumerscommunities/independent-foreclosure-review.htm">Independent Foreclosure Review</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li class="nav__header">
+<p>
+<strong>Community Development</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/consumerscommunities/neighborhood-revitalization.htm">Housing and Neighborhood Revitalization</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/consumerscommunities/small-business-and-entrepreneurship.htm">Small Business and Entrepreneurship</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/consumerscommunities/workforce.htm">Employment and Workforce Development</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/consumerscommunities/cdf.htm">Community Development Finance</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<a class="sr-only-focusable" href="/conferences.htm">Conferences</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Research &amp; Analysis</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/consumerscommunities/shed.htm">Survey of Household Economics and Decisionmaking</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/consumerscommunities/community-development-publications.htm">Research Publications &amp; Data Analysis</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+<a class="sr-only-focusable" href="/aboutthefed/cac.htm">Community Advisory Council</a>
+</li>
+<li class="nav__header">
+<p>
+<strong>Consumer Resources</strong>
+</p>
+</li>
+<li>
+<a class="sr-only-focusable" href="/consumerscommunities/foreclosure.htm">Mortgage and Foreclosure Resources</a>
+</li>
+<li>
+<a class="sr-only-focusable" href="/consumerscommunities/comm-dev-system-map.htm">Federal Reserve Community Development Resources</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<!-- BODY CONTENT -->
+<div class="container container__main" id="content" role="main">
+<div class="row">
+<div class="page-header">
+<ol class="breadcrumb">
+<li class="breadcrumb__item"><a class="breadcrumb__link" href="/default.htm">Home</a></li>
+<li class="breadcrumb__item"><a class="breadcrumb__link" href="/monetarypolicy.htm">Monetary Policy</a></li>
+<li class="breadcrumb__item"><a class="breadcrumb__link" href="/monetarypolicy/fomc.htm">Federal Open Market Committee</a></li>
+</ol>
+<div class="header-group">
+<div class="page-title" id="page-title">
+<h2>
+                                		    Federal Open Market Committee
+                                		</h2>
+</div>
+<div class="shareDL"><a class="btn shareDL__button" href="/monetarypolicy/files/fomcminutes20140730.pdf">
+<span class="icon icon__sm icon--centered icon-download-header"></span>
+<span class="shareDL__iconTitle">PDF</span>
+</a>
+</div>
+</div>
+</div><!-- / .page-header -->
+<noscript>
+<div class="js-disabled text-center">
+<span class="icon icon-alert icon--jsAlert"></span>
+<span><strong>Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.</strong> </span>
+</div>
+</noscript>
+</div><!-- / .row -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div class="t4_nav list-group sticky" id="t4_nav">
+<!-- <h3 class="text-uppercase">Chapters</h3> -->
+<a class="list-group-item active" href="/monetarypolicy/fomcminutes20140730.htm" title="">FOMC Minutes</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-9" id="article">
+<h3>Minutes of the Federal Open Market Committee</h3>
+<!-- Article Area -->
+<p><strong>July 29-30, 2014</strong></p>
+<p>A meeting of the Federal Open Market Committee was held in the offices of the Board of Governors of the Federal Reserve System in Washington, D.C., on Tuesday, July 29, 2014, at 10:00 a.m. and continued on Wednesday, July 30, 2014, at 9:00 a.m.</p>
+<p>PRESENT:</p>
+<p>Janet L. Yellen, Chair<br/>
+William C. Dudley, Vice Chairman<br/>
+Lael Brainard<br/>
+Stanley Fischer<br/>
+Richard W. Fisher<br/>
+Narayana Kocherlakota<br/>
+Loretta J. Mester<br/>
+Charles I. Plosser<br/>
+Jerome H. Powell<br/>
+Daniel K. Tarullo</p>
+<p>Charles L. Evans, Jeffrey M. Lacker, Dennis P. Lockhart, and John C. Williams, Alternate Members of the Federal Open Market Committee</p>
+<p>James Bullard, Esther L. George, and Eric Rosengren, Presidents of the Federal Reserve Banks of St. Louis, Kansas City, and Boston, respectively</p>
+<p>William B. English, Secretary and Economist<br/>
+Matthew M. Luecke, Deputy Secretary<br/>
+Michelle A. Smith, Assistant Secretary<br/>
+Scott G. Alvarez, General Counsel<br/>
+Thomas C. Baxter, Deputy General Counsel<br/>
+Steven B. Kamin, Economist<br/>
+David W. Wilcox, Economist</p>
+<p>James A. Clouse, Thomas A. Connors, Evan F. Koenig, Thomas Laubach, Michael P. Leahy, Paolo A. Pesenti, Mark E. Schweitzer, and William Wascher, Associate Economists</p>
+<p>Simon Potter, Manager, System Open Market Account</p>
+<p>Lorie K. Logan, Deputy Manager, System Open Market Account</p>
+<p>Robert deV. Frierson,<a href="#fn1"><sup>1</sup></a><a id="f1" name="f1"> </a>Secretary of the Board, Office of the Secretary, Board of Governors</p>
+<p>Nellie Liang, Director, Office of Financial Stability Policy and Research, Board of Governors</p>
+<p>Matthew J. Eichner,<sup>1</sup> Deputy Director, Division of Research and Statistics, Board of Governors; Maryann F. Hunter, Deputy Director, Division of Banking Supervision and Regulation, Board of Governors; Stephen A. Meyer and William R. Nelson, Deputy Directors, Division of Monetary Affairs, Board of Governors</p>
+<p>Jon W. Faust and Stacey Tevlin, Special Advisers to the Board, Office of Board Members, Board of Governors</p>
+<p>Trevor A. Reeve, Special Adviser to the Chair, Office of Board Members, Board of Governors</p>
+<p>Linda Robertson, Assistant to the Board, Office of Board Members, Board of Governors</p>
+<p>Ellen E. Meade and Joyce K. Zickler, Senior Advisers, Division of Monetary Affairs, Board of Governors</p>
+<p>David Bowman, Associate Director, Division of International Finance, Board of Governors; David E. Lebow<a href="#fn2"><sup>2</sup></a><a id="f2" name="f2"> </a>and Michael G. Palumbo, Associate Directors, Division of Research and Statistics, Board of Governors; Fabio M. Natalucci<sup>1</sup> and Gretchen C. Weinbach,<sup>1</sup> Associate Directors, Division of Monetary Affairs, Board of Governors</p>
+<p>Jane E. Ihrig, Deputy Associate Director, Division of Monetary Affairs, Board of Governors</p>
+<p>Eric C. Engstrom, Patrick E. McCabe,<sup>1</sup> and Karen M. Pence, Advisers, Division of Research and Statistics, Board of Governors</p>
+<p>Penelope A. Beattie,<sup>1</sup> Assistant to the Secretary, Office of the Secretary, Board of Governors</p>
+<p>Francisco Covas and Elizabeth Klee,<sup>1</sup> Section Chiefs, Division of Monetary Affairs, Board of Governors</p>
+<p>David H. Small, Project Manager, Division of Monetary Affairs, Board of Governors</p>
+<p>Katie Ross,<sup>1</sup> Manager, Office of the Secretary, Board of Governors</p>
+<p>Elmar Mertens, Senior Economist, Division of Monetary Affairs, Board of Governors</p>
+<p>Peter M. Garavuso, Records Project Manager, Division of Monetary Affairs, Board of Governors</p>
+<p>Gregory L. Stefani, First Vice President, Federal Reserve Bank of Cleveland</p>
+<p>David Altig, Ron Feldman, Jeff Fuhrer, and Daniel G. Sullivan, Executive Vice Presidents, Federal Reserve Banks of Atlanta, Minneapolis, Boston, and Chicago, respectively</p>
+<p>Michael Dotsey and Meg McConnell, Senior Vice Presidents, Federal Reserve Banks of Philadelphia and New York, respectively</p>
+<p>Fred Furlong, Group Vice President, Federal Reserve Bank of San Francisco</p>
+<p>Antoine Martin,<sup>1</sup> Douglas Tillett, David C. Wheelock, Jonathan L. Willis, and Patricia Zoebel,<sup>1</sup> Vice Presidents, Federal Reserve Banks of New York, Chicago, St. Louis, Kansas City, and New York, respectively</p>
+<p>Robert L. Hetzel, Senior Economist, Federal Reserve Bank of Richmond</p>
+<p>During the interval between the June and July meetings, Chair Yellen appointed a subcommittee on communications issues chaired by Governor Fischer and including President Mester, Governor Powell, and President Williams. Governor Fischer indicated that the subcommittee would continue the work of previous subcommittees in helping the Committee frame and organize the discussion of a broad range of communications issues.</p>
+<p><strong>Developments in Financial Markets and the Federal Reserve's Balance Sheet</strong><br/>
+In a joint session of the Federal Open Market Committee (FOMC) and the Board of Governors of the Federal Reserve System, the manager of the System Open Market Account (SOMA) reported on developments in domestic and foreign financial markets. The manager also reported on the System open market operations conducted during the period since the Committee met on June 17-18, 2014, summarized the outcomes of recent test operations of the Term Deposit Facility (TDF), described the results from the fixed-rate overnight reverse repurchase agreement (ON RRP) operational exercise, and reviewed the ongoing effects of recent foreign central bank policy actions on yields on the international portion of the SOMA portfolio. In addition, the manager noted plans for a pilot program for increasing the number of the Open Market Desk's counterparties for agency mortgage-backed securities (MBS) operations to include a few firms that are too small to qualify as primary dealers. By unanimous vote, the Committee ratified the Desk's domestic transactions over the intermeeting period. There were no intervention operations in foreign currencies for the System's account over the intermeeting period.</p>
+<p><a id="normalization"></a><strong>Monetary Policy Normalization</strong><br/>
+Meeting participants continued their discussion of issues associated with the eventual normalization of the stance and conduct of monetary policy, consistent with the Committee's intention to provide additional information to the public later this year, well before most participants anticipate the first steps in reducing policy accommodation to become appropriate. The staff detailed a possible approach for implementing and communicating monetary policy once the Committee begins to tighten the stance of policy. The approach reflected the Committee's discussion of normalization strategies and policy tools during the previous two meetings.</p>
+<p>Participants expressed general support for the normalization approach outlined by the staff, though some noted reservations about one or more of its features. Almost all participants agreed that it would be appropriate to retain the federal funds rate as the key policy rate, and they supported continuing to target a range of 25 basis points for this rate at the time of liftoff and for some time thereafter. However, one participant preferred to use the range for the federal funds rate as a communication tool rather than as a hard target, and another preferred that policy communications during the normalization period focus on the rate of interest on excess reserves (IOER) and the ON RRP rate in addition to the federal funds rate. Participants agreed that adjustments in the IOER rate would be the primary tool used to move the federal funds rate into its target range and influence other money market rates. In addition, most thought that temporary use of a limited-scale ON RRP facility would help set a firmer floor under money market interest rates during normalization. Most participants anticipated that, at least initially, the IOER rate would be set at the top of the target range for the federal funds rate, and the ON RRP rate would be set at the bottom of the federal funds target range. Alternatively, some participants suggested the ON RRP rate could be set below the bottom of the federal funds target range, judging that it might be possible to begin the normalization process with minimal or no reliance on an ON RRP facility and increase its role only if necessary. However, many other participants thought that such a strategy might result in insufficient control of money market rates at liftoff, which could cause confusion about the likely path of monetary policy or raise questions about the Committee's ability to implement policy effectively.</p>
+<p>Participants generally agreed that the ON RRP facility should be only as large as needed for effective monetary policy implementation and should be phased out when it is no longer needed for that purpose. Participants expressed their desire to include features in the facility's design that would limit the Federal Reserve's role in financial intermediation and mitigate the risk that the facility might magnify strains in short-term funding markets during periods of financial stress. They discussed options to address these concerns, including methods for limiting the program's size. Many participants noted that further testing would provide additional information that could help determine the appropriate features to temper the risks that might be associated with an ON RRP facility.</p>
+<p>Participants also discussed approaches to normalizing the size and composition of the Federal Reserve's balance sheet. In general, they agreed that the size of the balance sheet should be reduced gradually and predictably. In addition, they believed that, in the long run, the balance sheet should be reduced to the smallest level consistent with efficient implementation of monetary policy and should consist primarily of Treasury securities in order to minimize the effect of the SOMA portfolio on the allocation of credit across sectors of the economy. A few participants noted that the appropriate size of the balance sheet would depend on the Committee's future decisions regarding its framework for monetary policy. Most participants supported reducing or ending re- investment sometime after the first increase in the target range for the federal funds rate. A few, however, believed that ceasing reinvestment before liftoff was a better approach because it would lead to an earlier reduction in the size of the portfolio. Most participants continued to anticipate that the Committee would not sell MBS, except perhaps to eliminate residual holdings. However, a couple of participants preferred to sell MBS in order to unwind the effect of the Federal Reserve's holdings on mortgage rates relative to other interest rates more rapidly than would occur as a result of repayments of principal alone. Some others noted that, given the uncertainties attending the normalization process and the outlook for the economy and financial markets, it could be helpful to retain the option to sell some assets.</p>
+<p>Participants agreed that the Committee should provide additional information to the public regarding the details of normalization well before most participants anticipate the first steps in reducing policy accommodation to become appropriate. They stressed the importance of communicating a clear plan while at the same time noting the importance of maintaining flexibility so that adjustments to the normalization approach could be made as the situation changed and in light of experience. Participants requested additional analysis from the staff on issues related to normalization as background for further discussion at their next meeting. A few participants also suggested that the Committee should solicit additional information from the public regarding the possible effects of an ON RRP facility, but some others pointed out that the Committee would continue to receive such feedback informally in response to its ongoing communications regarding normalization. The Board meeting concluded at the end of the discussion of approaches to policy normalization.</p>
+<p><strong>Staff Review of the Economic Situation</strong><br/>
+The information reviewed for the July 29-30 meeting indicated that real gross domestic product (GDP) rebounded in the second quarter following its first-quarter decline, but it expanded at only a modest pace, on balance, over the first half of the year. Consumer price inflation rose somewhat in the second quarter, but futures prices for energy and agricultural commodities generally were trending down over the next couple of years and longer-run measures of inflation expectations remained stable. The Bureau of Economic Analysis (BEA) released its advance estimate for second-quarter real GDP, along with revised data for earlier periods, on the second day of the FOMC meeting. The staff's assessment of economic activity and inflation in the first half of 2014, based on information available before the meeting began, was broadly consistent with the new information from the BEA.</p>
+<p>Measures of labor market conditions generally continued to improve during the intermeeting period. Total nonfarm payroll employment increased strongly in June, and the average monthly gain for the second quarter was the largest since the first quarter of 2012. The unemployment rate declined to 6.1 percent in June, the labor force participation rate was unchanged, and the employment-to-population ratio edged up. The rate of long-duration unemployment moved down, and the share of workers employed part time for economic reasons edged up; both measures remained elevated by historical standards. Initial claims for unemployment insurance declined further in recent weeks. The rate of job openings rose further in May, but the rate of hiring was unchanged and remained at a modest level.</p>
+<p>Industrial production increased in the second quarter, as higher output from manufacturers and mines more than offset a decline in the output of electric and natural gas utilities. Capacity utilization also moved higher in the second quarter. Automakers' production schedules indicated that light motor vehicle assemblies would increase in the third quarter, and readings on new orders from national and regional manufacturing surveys were consistent with moderate gains in factory output in the near term.</p>
+<p>Real personal consumption expenditures (PCE) rose more quickly in the second quarter than in the first, partly reflecting higher purchases of light motor vehicles. Key factors that tend to influence household spending remained positive in recent months. In particular, gains in equity values and home prices boosted household net worth, and real disposable personal income continued to rise in the second quarter. Consumer sentiment in the Thomson Reuters/University of Michigan Surveys of Consumers edged down in early July but was only slightly below its average over the first half of the year.</p>
+<p>Real expenditures for residential investment turned up in the second quarter after declining for two consecutive quarters. Starts of new single-family houses declined in June, but they rose for the quarter as a whole, and the level of permit issuance was consistent with increases in starts in subsequent months. In the multifamily sector, starts and permits also increased, on net, in the second quarter. Existing home sales moved up during the second quarter but remained below year-earlier levels, while new home sales declined. Home prices continued to rise through May, though the rate of increase was less rapid than earlier in the year.</p>
+<p>Real private expenditures for business equipment and intellectual property products increased in the second quarter. Nominal new orders for nondefense capital goods were little changed, on net, in May and June; however, the level of orders was above that for shipments, pointing to increases in shipments in subsequent months. Other forward-looking indicators, such as national and regional surveys of business conditions, also generally suggested moderate increases in business equipment spending in the near term. Real business expenditures for nonresidential construction also increased in the second quarter. Meanwhile, business inventories generally appeared well aligned with sales, apart from the energy sector, where inventories remained below year-earlier levels.</p>
+<p>Real federal government purchases decreased over the first half of the year, reflecting ongoing fiscal consolidation and continued declines in defense spending. In contrast, real state and local government purchases increased in the second quarter, as payrolls expanded at a faster pace than in the first quarter and outlays for construction moved higher.</p>
+<p>The U.S. international trade deficit narrowed in May as imports fell and exports rose. The rise in exports was concentrated in petroleum products and automotive parts. The fall in imports was led by declines in oil and consumer goods. For the second quarter overall, net exports exerted a moderate drag on the change in U.S. real GDP, compared with a more substantial negative contribution in the first quarter.</p>
+<p>U.S. consumer prices, as measured by the PCE price index, increased at a faster pace in the second quarter than in the first and were about 1-1/2 percent higher than a year earlier. Consumer energy price inflation rose in the second quarter, but retail gasoline prices, measured on a seasonally adjusted basis, subsequently moved lower through the fourth week of July. Consumer food price inflation also increased in the second quarter, reflecting the effects of drought and disease on crop and livestock production; however, spot prices for crops moved down in recent weeks, and futures prices pointed to lower prices for livestock in the year ahead. The PCE price index for items excluding food and energy also rose more quickly in the second quarter than in the first and was 1-1/2 percent higher than a year earlier. Near-term inflation expectations from the Michigan survey were little changed, on net, in June and early July, while longer-term expectations declined. Measures of labor compensation indicated that gains in nominal wages and employee benefits remained modest.</p>
+<p>Recent indicators suggested that foreign economic activity strengthened in the second quarter: Chinese GDP accelerated substantially, and Mexican data suggested a pickup there. Real GDP growth remained strong in the United Kingdom, and data for both Canada and the euro area showed improvement relative to the first quarter. By contrast, household spending in Japan dropped sharply following the country's April 1 consumption tax increase. In many advanced foreign economies, inflation picked up in the second quarter from very low rates in the first, although second-quarter inflation in the euro area remained well below the European Central Bank's objective.</p>
+<p><strong>Staff Review of the Financial Situation</strong><br/>
+Financial conditions eased somewhat, on balance, between the June and July FOMC meetings, although geopolitical risks weighed on investor sentiment at times. On net, yields on longer-term Treasury securities fell, equity prices rose, and the foreign exchange value of the dollar was little changed.</p>
+<p>Market participants characterized the Federal Reserve's monetary policy communications over the intermeeting period as suggesting a slightly more accommodative policy stance than had been expected. The anticipated path of the federal funds rate shifted down modestly following the June FOMC statement and the Chair's press conference. Policy expectations also edged down on the release of the minutes of the June FOMC meeting. Market participants took note of the discussion of monetary policy normalization in the minutes and, particularly, the discussion of the likely spread between the ON RRP rate and the IOER rate.</p>
+<p>Results from the Desk's July Survey of Primary Dealers, conducted shortly before the July FOMC meeting, indicated that market participants' expectations for the timing of the first increase in the federal funds rate and the subsequent policy path were largely unchanged from those reported in the survey taken just before the June meeting. The median dealer continued to see the third quarter of 2015 as the most likely time for the liftoff of the federal funds rate from the effective lower bound, although, relative to the June survey, the distribution of the modal expected time of liftoff became more concentrated around the third quarter of 2015.</p>
+<p>On balance, 10- and 30-year nominal Treasury yields both declined about 20 basis points over the intermeeting period. Concerns about tensions in Ukraine and the Middle East and the release of the June minutes appeared to contribute to the declines in longer-term Treasury yields. The decline in yields at the long end of the curve likely also reflected a continuation of a pattern that began last year, which some market participants attributed to a reduction in investors' expectations for longer-run economic growth and declines in term premiums. Measures of longer-horizon inflation compensation based on Treasury Inflation-Protected Securities were about unchanged.</p>
+<p>Conditions in unsecured short-term dollar funding markets remained stable over the intermeeting period. The Federal Reserve continued its ON RRP exercise and TDF testing. As a result of somewhat higher market rates on repurchase agreements, ON RRP take-up, on average, was a little lower than in the prior intermeeting period, although participation in the ON RRP exercise jumped to a record high at quarter-end on June 30. Moreover, the ON RRP exercise appeared to have continued to help firm the floor under money market interest rates. In TDF testing that ran from mid-May to early July, gradual increases in offer rates and in the maximum individual award amounts generally resulted in higher participation.</p>
+<p>The S&amp;P 500 index rose about 1-1/2 percent over the intermeeting period, as earnings reports from a range of companies appeared to indicate that profits in the second quarter had increased modestly relative to the first quarter. The VIX, an index of option-implied volatility for one-month returns on the S&amp;P 500 index, remained at low levels over the intermeeting period.</p>
+<p>Credit flows to nonfinancial corporations remained strong in the second quarter. Gross issuance of investment- and speculative-grade bonds stayed brisk. Commercial and industrial loans on banks' balance sheets continued to increase at a robust pace, consistent with reports in the July Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) of easier lending standards and terms as well as stronger loan demand from firms of all sizes. Issuance of leveraged loans by institutional investors also remained solid.</p>
+<p>Credit conditions in markets for commercial real estate (CRE) improved further in the second quarter. According to the July SLOOS, banks continued to ease their standards and report stronger demand for CRE loans during the second quarter on balance. CRE loans on banks' books continued to expand moderately, and issuance of commercial mortgage-backed securities remained solid.</p>
+<p>Credit conditions in residential mortgage markets generally remained tight over the intermeeting period. Mortgage interest rates held steady around 4 percent, and origination volumes continued to be low. According to the July SLOOS, underwriting standards on prime home-purchase loans appeared to have eased further at banks during the second quarter but, on net, standards on all types of residential real estate loans reportedly remained tighter than the midpoints of the respondent banks' longer-term ranges.</p>
+<p>In contrast to mortgage lending, consumer credit continued to expand robustly in May, largely on the strength of auto and student loans, though credit card debt picked up somewhat as well. Banks responding to the July SLOOS indicated that demand for auto loans strengthened further in the second quarter. In addition, demand for credit card loans increased, and a few large banks reported having eased lending policies for such loans.</p>
+<p>Benchmark yields on long-term sovereign bonds in the advanced foreign economies continued the downward trend that began at the start of the year, with rising tensions in the Middle East and Ukraine during the intermeeting period likely adding some to the downward pressure. Concerns about one of Portugal's largest banks and about litigation risks facing European banks weighed on European financial markets, prompting yield spreads on peripheral sovereign bonds in the euro area to widen and equity price indexes for European banks to decline. Intermeeting data releases on euro-area industrial production came in below market expectations, also weighing on headline equity markets in the region. Mixed news from emerging market economies, including better-than-expected GDP growth in China and concerns about Argentina's scheduled debt payments, generally had modest market effects. Changes in emerging market equity indexes were mixed over the period, and emerging market bond yields generally declined. The broad trade-weighted dollar was little changed, on net, over the intermeeting period.</p>
+<p>The staff's periodic report on potential risks to financial stability concluded that relatively strong capital positions of U.S. banks, subdued use of maturity transformation and leverage within the broader financial sector, and relatively low levels of leverage for the aggregate nonfinancial sector were important factors supporting overall financial stability. However, the staff report also highlighted that low and declining risk premiums, low levels of market volatility, and a loosening of underwriting standards in a number of markets raised somewhat the risk of an eventual correction in asset valuations.</p>
+<p><strong>Staff Economic Outlook</strong><br/>
+The data received since the staff prepared its forecast for the June FOMC meeting suggested that real GDP growth was even weaker in the first half of the year than had been anticipated.<a href="#fn3" title="footnote 3"><sup>3</sup></a><a id="f3" name="f3"> </a>However, the staff left its forecast for real GDP growth in the second half of the year essentially unrevised because other indicators of economic activity appeared comparatively strong in relation to real GDP during the first half of the year. In particular, payroll employment continued to advance at a solid pace, the unemployment rate declined further, industrial production posted steady gains, and readings from business surveys were strong. The staff's medium-term forecast for real GDP growth was also little revised. The staff continued to project that real GDP would expand at a faster pace in the second half of this year and over the next two years than in 2013. This forecast was predicated on a further anticipated waning of the restraint on spending growth from changes in fiscal policy, continued improvement in credit availability, increases in consumer and business confidence, and a pickup in foreign economic growth. In response to a further downward surprise in the unemployment rate, the staff again lowered its forecast for the unemployment rate over the projection period. To reconcile the downward revision to real GDP growth for the first half of year with an unemployment rate that was now closer to the staff's estimate of its longer-run natural rate, the staff lowered its assumed pace of potential output growth this year by more than it marked down GDP growth. As a result, resource slack in this projection was anticipated to be somewhat narrower this year than in the previous forecast and to be taken up slowly over the projection period.</p>
+<p>The staff's near-term forecast for inflation was revised up a little, as recent data showed somewhat faster-than-anticipated increases that were judged to be only partly transitory. With a little less resource slack in this projection, the medium-term forecast for inflation was also revised up slightly. Nonetheless, as in the June projection, inflation was projected to step down in the second half of this year and to remain below the Committee's longer-run objective of 2 percent over the next few years. With longer-run inflation expectations assumed to remain stable, changes in commodity and import prices expected to be subdued, and slack in labor and product markets anticipated to diminish only slowly, inflation was forecast to rise gradually and to reach the Committee's objective in the longer run.</p>
+<p>The staff continued to view uncertainty around its projections for real GDP growth, inflation, and the unemployment rate as roughly in line with the average of the past 20 years. Although the risks to GDP growth were still seen as tilted a little to the downside, as neither monetary policy nor fiscal policy was viewed as well positioned to help the economy withstand adverse shocks, these risks were considered to be more nearly balanced than in the previous projection. The staff continued to view the risks around its outlook for the unemployment rate and for inflation as roughly balanced.</p>
+<p><strong>Participants' Views on Current Conditions and the Economic Outlook</strong><br/>
+In their discussion of the economic situation and the outlook, meeting participants generally viewed the rebound in real GDP in the second quarter and the ongoing improvement in labor market conditions as supporting their expectations for continued moderate economic expansion with labor market indicators and inflation moving toward levels the Committee judges consistent with its dual mandate. Although most participants continued to view the risks to the outlook for economic activity and the labor market as nearly balanced, some pointed to possible sources of downside risk, including persistent weakness in the housing sector, a continued slow rise in household income, or spillovers from developments in the Middle East and Ukraine. Participants noted that inflation had moved somewhat closer to the Committee's 2 percent longer-run objective and generally saw the risks of inflation running persistently below their objective as having diminished somewhat.</p>
+<p>Household spending appeared to be rising moderately and was expected to contribute to stronger economic growth in the second half of the year than in the first half. Business contacts in several Districts reported a pickup in consumer spending after the weakness in the first quarter. However, a few participants raised concerns that households might remain cautious, with the personal saving rate staying elevated, or that the slow rise in wages and income might be insufficient to support stronger consumer spending.</p>
+<p>The recovery in housing activity remained slow according to most participants. Although mortgage rates were still low and housing appeared to be relatively affordable, various factors were seen as restraining demand, including low expected income and high levels of student debt as well as difficulty in obtaining mortgage credit, particularly for younger, first-time homebuyers. It was also noted that the weakness in homebuilding along with the continued rise in house prices suggested that supply constraints were also weighing on construction activity. A couple of participants indicated that some demand appeared to have shifted to rental properties. The rising demand for rentals was in part being satisfied by investors buying homes for the rental market; it was also providing support for multifamily construction. Some participants noted their concern that a number of the factors restraining residential construction might persist, damping the housing recovery for some time.</p>
+<p>Many participants reported continued improvement in sentiment among their business contacts and noted positive readings from recent regional and national surveys of manufacturing and service-sector activity. In particular, participants cited strength in airlines, railroads, trucking firms, businesses supplying the motor vehicle and aerospace industries, and those in the high-tech sector. In addition, higher energy prices continued to provide support for activity in the energy sector. In the agriculture sector, favorable growing conditions for crops had lowered prices but increased the profitability of livestock producers. The reports from their business contacts provided support for participants' expectation of stronger economic growth in the second half of the year. In some cases, the information from businesses suggested increases in spending on capital equipment or a pickup in investment in commercial and industrial construction and transportation. Contacts in a number of areas indicated that credit was readily available, and reports from participants' business and financial contacts indicated a strengthening in demand for bank credit. However, several participants reported that businesses remained somewhat uncertain about the economic outlook and thus were still cautious about stepping up capital spending and hiring. Federal fiscal restraint reportedly continued to depress business activity in some areas dependent on federal spending.</p>
+<p>Labor market conditions improved in recent months according to participants' reports on developments in their Districts as well as a range of national indicators. The improvement was reflected not only in a pickup in payroll employment gains and a noticeable decline in the overall unemployment rate, but also in reductions in broader measures of underutilization such as long- duration joblessness and the number of workers with part-time jobs who would prefer full-time employment. The labor force participation rate was stable, and a couple of participants pointed out that the transition rate from long-duration unemployment to employment had moved up. Moreover, some participants cited positive signs of increased hiring and turnover in the labor market, including increases in job openings and hiring plans, higher quit rates, and apparent improvements in matching workers and jobs.</p>
+<p>Participants generally agreed that both the recent improvement in labor market conditions and the cumulative progress over the past year had been greater than anticipated and that labor market conditions had moved noticeably closer to those viewed as normal in the longer run. Participants differed, however, in their assessments of the remaining degree of labor market slack and how to measure it. A few argued that the unemployment rate continues to serve as a reliable summary statistic for the overall state of the labor market and thought that it should be the Committee's principal focus for evaluating labor market conditions. However, many participants continued to see a larger gap between current labor market conditions and those consistent with their assessments of normal levels of labor utilization than indicated by the difference between the unemployment rate and estimates of its longer-run normal level. These participants cited, for example, the still-elevated levels of long-term unemployment and workers employed part time for economic reasons as well as low labor force participation. Several participants pointed out that the recent drop in the unemployment rate had been associated with progress in reabsorbing the long-term unemployed into jobs and reducing part-time work, suggesting that slack was diminishing and could be reduced further as employment opportunities expanded.</p>
+<p>Labor compensation was still rising only modestly. Many participants continued to attribute the subdued rise in wages to the remaining slack in the labor market; it was noted that the elevated level of relatively low-paid part-time workers was holding down overall wage increases. Several other participants pointed to reports that wage pressures had increased in some regions and occupations that were experiencing labor shortages or relatively low unemployment. However, a couple of participants indicated that the pass-through of labor costs has been more attenuated since the mid-1980s and that wage pressures might not be a reliable leading indicator of higher inflation.</p>
+<p>Inflation firmed in recent months, and most participants anticipated that it would continue to move up toward the Committee's 2 percent objective. Many of them expected that inflation was likely to rise gradually over the medium term, as resource slack diminished and inflation expectations remained stable. In support of their assessments, several reported results from various statistical models of inflation and inflation expectations. Most now judged that the downside risks to inflation had diminished, but a few participants continued to see inflation as likely to persist below the Committee's objective over the medium term. Several commented that the upside risks had not increased. However, a few others argued that the recent tightening of the labor market had increased the upside risks to inflation and inflation expectations, particularly in an environment in which the economic expansion was expected to strengthen further.</p>
+<p>In their discussion of financial stability issues, participants noted evidence of valuation pressures in some particular asset markets, but those pressures did not appear to be widespread and other measures of vulnerability in the financial system were at low to moderate levels. As a result, they generally saw the vulnerabilities in the financial system as well contained. Some participants discussed how the Committee might better incorporate financial stability risks in its discussion of macroeconomic risks. They also suggested that the Committee consider how promptly various financial stability concerns could be addressed, if need be, and which tools, including monetary policy and regulatory responses, would be most timely and effective in doing so.</p>
+<p>With respect to monetary policy over the medium run, participants generally agreed that labor market conditions and inflation had moved closer to the Committee's longer-run objectives in recent months, and most anticipated that progress toward those goals would continue. Moreover, many participants noted that if convergence toward the Committee's objectives occurred more quickly than expected, it might become appropriate to begin removing monetary policy accommodation sooner than they currently anticipated. Indeed, some participants viewed the actual and expected progress toward the Committee's goals as sufficient to call for a relatively prompt move toward reducing policy accommodation to avoid overshooting the Committee's unemployment and inflation objectives over the medium term. These participants were increasingly uncomfortable with the Committee's forward guidance. In their view, the guidance suggested a later initial increase in the target federal funds rate as well as lower future levels of the funds rate than they judged likely to be appropriate. They suggested that the guidance should more clearly communicate how policy-setting would respond to the evolution of economic data. However, most participants indicated that any change in their expectations for the appropriate timing of the first increase in the federal funds rate would depend on further information on the trajectories of economic activity, the labor market, and inflation. In particular, although participants generally saw the drop in real GDP in the first quarter as transitory, some noted that it increased uncertainty about the outlook, and they were looking to additional data on production, spending, and labor market developments to shed light on the underlying pace of economic growth. Moreover, despite recent inflation developments, several participants continued to believe that inflation was likely to move back to the Committee's objective very slowly, thereby warranting a continuation of highly accommodative policy as long as projected inflation remained below 2 percent and longer-term inflation expectations were well anchored.</p>
+<p><strong>Committee Policy Action</strong><br/>
+In their discussion of monetary policy in the period ahead, members judged that information received since the Federal Open Market Committee met in June indicated that economic activity rebounded in the second quarter. Household spending appeared to be rising moderately, and business fixed investment was advancing, while the recovery in the housing sector remained slow. Fiscal policy was restraining economic growth, al-though the extent of the restraint was diminishing. The Committee expected that, with appropriate policy accommodation, economic activity would expand at a moderate pace with labor market indicators and inflation moving toward levels that the Committee judges consistent with its dual mandate.</p>
+<p>With the incoming information broadly supporting the Committee's expectation of ongoing improvement in labor market conditions and inflation moving back to the Committee's 2 percent objective, members generally agreed that a further measured reduction in the pace of asset purchases was appropriate at this meeting. Accordingly, the Committee agreed that, beginning in August, it would add to its holdings of agency MBS at a pace of $10 billion per month rather than $15 billion per month, and it would add to its holdings of Treasury securities at a pace of $15 billion per month rather than $20 billion per month. The Committee again judged that, if incoming data broadly supported its expectations that labor market indicators and inflation would continue to move toward mandate-consistent levels, the Committee would likely reduce the pace of asset purchases in further measured steps at future meetings. However, the Committee reiterated that asset purchases were not on a preset course and that its decisions remained contingent on the outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.</p>
+<p>Members discussed their assessments of progress--both realized and expected--toward the Committee's objectives of maximum employment and 2 percent inflation and considered enhancements to the statement language that would more clearly communicate the Committee's view on such progress. Regarding the labor market, many members concluded that a range of indicators of labor market conditions--including the unemployment rate as well as a number of other measures of labor utilization--had improved more in recent months than they anticipated earlier. They judged it appropriate to replace the description of recent labor market conditions that mentioned solely the unemployment rate with a description of their assessment of the remaining underutilization of labor resources based on their evaluation of a range of labor market indicators. In their discussion, some members expressed reservations about describing the extent of underutilization in labor resources more broadly. In particular, they worried that the degree of labor market slack was difficult to characterize succinctly and that the statement language might prove difficult to adjust as labor market conditions continued to improve. Moreover, they were concerned that, despite the improvement in labor market conditions, the new language might be misinterpreted as indicating increased concern about underutilization of labor resources. At the conclusion of the discussion, the Committee agreed to state that labor market conditions had improved, with the unemployment rate declining further, while also stating that a range of labor market indicators suggested that there remained significant underutilization of labor resources. Many members noted, however, that the characterization of labor market underutilization might have to change before long, particularly if progress in the labor market continued to be faster than anticipated. Regarding inflation, members agreed to update the language in the statement to acknowledge that inflation had recently moved somewhat closer to the Committee's longer-run objective and to convey their judgment that the likelihood of inflation running persistently below 2 percent had diminished somewhat.</p>
+<p>After the discussion, all members but one voted to maintain the Committee's target range for the federal funds rate and to reiterate its forward guidance on how it would assess the appropriate timing of the first increase in the target rate and the anticipated behavior of the federal funds rate after it is raised. One member, however, objected to the guidance that it would likely be appropriate to maintain the current range for the federal funds rate for a considerable time after the asset purchase program ends because it was time dependent and did not recognize the implications for monetary policy of the considerable progress that had been made toward the Committee's goals.</p>
+<p>At the conclusion of the discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the SOMA in accordance with the following domestic policy directive:</p>
+<p style=" margin-left: 20.0px;">"Consistent with its statutory mandate, the Federal Open Market Committee seeks monetary and financial conditions that will foster maximum employment and price stability. In particular, the Committee seeks conditions in reserve markets consistent with federal funds trading in a range from 0 to 1/4 percent. The Committee directs the Desk to undertake open market operations as necessary to maintain such conditions. Beginning in August, the Desk is directed to purchase longer-term Treasury securities at a pace of about $15 billion per month and to purchase agency mortgage-backed securities at a pace of about $10 billion per month. The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions. The Committee directs the Desk to maintain its policy of rolling over maturing Treasury securities into new issues and its policy of reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities. The System Open Market Account manager and the secretary will keep the Committee informed of ongoing developments regarding the System's balance sheet that could affect the attainment over time of the Committee's objectives of maximum employment and price stability."</p>
+<p>The vote encompassed approval of the statement below to be released at 2:00 p.m.:</p>
+<p style=" margin-left: 20.0px;">"Information received since the Federal Open Market Committee met in June indicates that growth in economic activity rebounded in the second quarter. Labor market conditions improved, with the unemployment rate declining further. However, a range of labor market indicators suggests that there remains significant underutilization of labor resources. Household spending appears to be rising moderately and business fixed investment is advancing, while the recovery in the housing sector remains slow. Fiscal policy is restraining economic growth, although the extent of restraint is diminishing. Inflation has moved somewhat closer to the Committee's longer-run objective. Longer-term inflation expectations have remained stable.</p>
+<p style=" margin-left: 20.0px;">Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. The Committee expects that, with appropriate policy accommodation, economic activity will expand at a moderate pace, with labor market indicators and inflation moving toward levels the Committee judges consistent with its dual mandate. The Committee sees the risks to the outlook for economic activity and the labor market as nearly balanced and judges that the likelihood of inflation running persistently below 2 percent has diminished somewhat.</p>
+<p style=" margin-left: 20.0px;">The Committee currently judges that there is sufficient underlying strength in the broader economy to support ongoing improvement in labor market conditions. In light of the cumulative progress toward maximum employment and the improvement in the outlook for labor market conditions since the inception of the current asset purchase program, the Committee decided to make a further measured reduction in the pace of its asset purchases. Beginning in August, the Committee will add to its holdings of agency mortgage-backed securities at a pace of $10 billion per month rather than $15 billion per month, and will add to its holdings of longer-term Treasury securities at a pace of $15 billion per month rather than $20 billion per month. The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. The Committee's sizable and still-increasing holdings of longer-term securities should maintain downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee's dual mandate.</p>
+<p style=" margin-left: 20.0px;">The Committee will closely monitor incoming information on economic and financial developments in coming months and will continue its purchases of Treasury and agency mortgage-backed securities, and employ its other policy tools as appropriate, until the outlook for the labor market has improved substantially in a context of price stability. If incoming information broadly supports the Committee's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce the pace of asset purchases in further measured steps at future meetings. However, asset purchases are not on a preset course, and the Committee's decisions about their pace will remain contingent on the Committee's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.</p>
+<p style=" margin-left: 20.0px;">To support continued progress toward maximum employment and price stability, the Committee today reaffirmed its view that a highly accommodative stance of monetary policy remains appropriate. In determining how long to maintain the current 0 to 1/4 percent target range for the federal funds rate, the Committee will assess progress--both realized and expected--toward its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments. The Committee continues to anticipate, based on its assessment of these factors, that it likely will be appropriate to maintain the current target range for the federal funds rate for a considerable time after the asset purchase program ends, especially if projected inflation continues to run below the Committee's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored.</p>
+<p style=" margin-left: 20.0px;">When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent. The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below levels the Committee views as normal in the longer run."</p>
+<p><strong>Voting for this action:</strong> Janet L. Yellen, William C. Dudley, Lael Brainard, Stanley Fischer, Richard W. Fisher, Narayana Kocherlakota, Loretta J. Mester, Jerome H. Powell, and Daniel K. Tarullo.</p>
+<p><strong>Voting against this action: </strong>Charles I. Plosser.</p>
+<p>Mr. Plosser dissented because he objected to the statement's guidance indicating that it likely will be appropriate to maintain the current target range for the federal funds rate for "a considerable time after the asset purchase program ends." In his view, the reference to calendar time should be replaced with language that indicates how monetary policy will respond to incoming data. Moreover, he judged that the statement did not acknowledge the substantial progress that had been made toward the Committee's economic goals and thus risks unnecessary and disruptive volatility in financial markets, and perhaps in the economy, if the Committee reduces accommodation sooner or more quickly than financial markets anticipate.</p>
+<p>It was agreed that the next meeting of the Committee would be held on Tuesday-Wednesday, September 16-17, 2014. The meeting adjourned at 11:55 a.m. on July 30, 2014.</p>
+<p><strong>Notation Vote</strong><br/>
+By notation vote completed on July 8, 2014, the Committee unanimously approved the minutes of the Committee meeting held on June 17-18, 2014.</p>
+<p align="center">  </p>
+<p align="center">_____________________________</p>
+<p align="center"><strong>William B. English</strong><br/>
+<strong>Secretary</strong></p>
+<p align="center"> </p>
+<div class="footnotes">
+<p><a id="fn1" name="fn1">1.</a> Attended the joint session of the Federal Open Market Committee and the Board of Governors. <a href="#f1">Return to text</a></p>
+<p><a id="fn2" name="fn2">2.</a> Attended the portion of the meeting following the joint session of the Federal Open Market Committee and the Board of Governors. <a href="#f2">Return to text</a></p>
+<p><a id="fn3" name="fn3">3.</a> The staff's forecast for the July FOMC meeting was prepared prior to the July 30 release of the BEA's advance estimate of real GDP in the second quarter and revisions for earlier periods. <a href="#f3">Return to text</a></p>
+</div>
+</div>
+</div>
+<a class="icon__backTop icon-backtop" href="#" id="back-top" title="Scroll To Top"><span class="sr-only">Back to Top</span></a>
+<div class="row">
+<div class="lastUpdate" id="lastUpdate">Last Update:
+              
+                            August 20, 2014
+                          
+            </div>
+</div>
+</div><!-- / #content .container -->
+<footer class="container footer">
+<div class="row footer__content">
+<div class="col-xs-12 col-sm-4">
+<h6 class="footer__heading"><span class="text-uppercase">Board of Governors</span> <em>of the</em> <span class="text-uppercase">Federal Reserve System</span></h6>
+<ul class="list-unstyled">
+<li class="footer__listItem"><a class="footer__link" href="/aboutthefed.htm">About the Fed</a></li><li class="footer__listItem"><a class="footer__link" href="/newsevents.htm">News &amp; Events</a></li><li class="footer__listItem"><a class="footer__link" href="/monetarypolicy.htm">Monetary Policy</a></li><li class="footer__listItem"><a class="footer__link" href="/supervisionreg.htm">Supervision &amp; Regulation</a></li><li class="footer__listItem"><a class="footer__link" href="/paymentsystems.htm">Payment Systems</a></li><li class="footer__listItem"><a class="footer__link" href="/econres.htm">Economic Research</a></li><li class="footer__listItem"><a class="footer__link" href="/data.htm">Data</a></li><li class="footer__listItem"><a class="footer__link" href="/consumerscommunities.htm">Consumers &amp; Communities</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4">
+<h6 class="text-uppercase footer__heading">Tools and Information</h6>
+<ul class="list-unstyled">
+<li class="footer__listItem"><a class="footer__link" href="/aboutthefed/contact-us-topics.htm">Contact</a></li>
+<li class="footer__listItem"><a class="footer__link" href="/publications.htm">Publications</a></li>
+<li class="footer__listItem"><a class="footer__link" href="/foia/about_foia.htm">Freedom of Information (FOIA)</a></li>
+<li class="footer__listItem"><a class="footer__link" href="https://oig.federalreserve.gov/">Office of Inspector General</a></li>
+<li class="footer__listItem"><a class="footer__link" href="/publications/annual-report.htm">Budget &amp; Performance</a> | <a class="footer__link" href="/regreform/audit.htm">Audit</a></li>
+<li class="footer__listItem"><a class="footer__link" href="/eeo.htm">No FEAR Act</a></li>
+<li class="footer__listItem"><a class="footer__link" href="/espanol.htm">Español</a></li>
+<li class="footer__listItem"><a class="footer__link" href="/website-linking-policies.htm">Website Policies</a>  | <a class="footer__link" href="/privacy.htm">Privacy Program</a></li>
+<li class="footer__listItem"><a class="footer__link" href="/accessibility.htm">Accessibility</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4">
+<div class="footer__social">
+<h6 class="text-uppercase footer__heading footer__heading--social">Stay Connected</h6>
+<a class="icon__md icon footer__btn icon-facebook-color" href="https://www.facebook.com/federalreserve"><span class="sr-only">Link to Federal Reserve Facebook Page</span></a>
+<a class="icon__md icon footer__btn icon-twitter-color" href="https://twitter.com/federalreserve"><span class="sr-only">Link to Federal Reserve Twitter Page</span></a>
+<a class="icon__md icon footer__btn icon-youtube-color" href="https://www.youtube.com/federalreserve"><span class="sr-only">Link to Federal Reserve YouTube Page</span></a>
+<a class="icon__md icon footer__btn icon-flickr-color" href="https://www.flickr.com/photos/federalreserve/"><span class="sr-only">Link to Federal Reserve Flickr Page</span></a>
+<a class="icon__md icon footer__btn icon-linkedin-color" href="https://www.linkedin.com/company/federal-reserve-board"><span class="sr-only">Federal Reserve LinkedIn Page</span></a>
+<a class="icon__md icon footer__btn icon-rss-color" href="/feeds/feeds.htm"><span class="sr-only">Subscribe to RSS</span></a>
+<a class="icon__md icon footer__btn icon-email-color" href="/subscribe.htm"><span class="sr-only">Subscribe to Email</span></a>
+</div>
+<a href="https://www.usa.gov/" target="_blank" title="Link to USA.gov">
+<img alt="Link to USA.gov" class="footer__image" src="/images/USAGov%402x.png"/>
+</a>
+<a href="/open/open.htm" target="_blank" title="Link to Open.gov">
+<img alt="Link to Open.gov" class="footer__image" src="/images/OpenGov%402x.png"/>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 footer__footer">
+<p class="text-uppercase footer__text footer__text--left">Board of Governors <em class="text-lowercase">of the</em> Federal Reserve System</p>
+<p class="footer__text footer__text--right">20th Street and Constitution Avenue N.W., Washington, DC 20551</p>
+</div>
+</div>
+</footer>
+<script src="/js/jquery1.11.1.min.js" type="text/javascript"></script>
+<script src="/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/js/scripts.js" type="text/javascript"></script>
+<script src="/js/modal.js" type="text/javascript"></script>
+<script src="/js/sticky-tables.js" type="text/javascript"></script>
+<script src="/js/slides/ekko-lightbox.min.js" type="text/javascript"></script>
+<script src="/js/t4-nav-controller.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(document).ready(function($) {
+        // delegate calls to data-toggle="lightbox"
+        $(document).delegate('*[data-toggle="lightbox"]:not([data-gallery="navigateTo"])', 'click', function(event) {
+            event.preventDefault();
+            $(this).ekkoLightbox();
+        });
+        $('a[data-click="false"]').click(function(e) {
+            e.preventDefault();
+            var target = $(this).data('target');
+            $(target).click();
+        });
+    });
+</script>
+<!--<ul></ul>-->
+<script src="/resources/track_downloads.js" type="text/javascript"></script>
+</body>
+</html>
