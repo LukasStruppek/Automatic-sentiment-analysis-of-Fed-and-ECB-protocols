@@ -1,0 +1,1026 @@
+<html>
+ <head>
+  <title>
+   FRB: FOMC Minutes - January 28-29, 2003
+  </title>
+  <style type="text/css">
+   <!----------------------
+h6      {color:black}
+a:link          {color: #006666;}
+                      
+.footer {font-size: 9pt;line-height : 11pt; }
+------------------------->
+  </style>
+  <base target="_top">
+   <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+   </script>
+  </base>
+ </head>
+ <body bgcolor="#FFFFFF">
+  <a name="pagetop">
+  </a>
+  <a name="top">
+  </a>
+  <table width="600">
+   <tr>
+    <td>
+     <a href="/">
+      <img alt="The Federal Reserve Board eagle logo links to home page" border="0" height="73" src="../../GIFJPG/sm_head2.gif" width="275"/>
+     </a>
+     <hr noshade="">
+      <table border="0" cellpadding="4">
+       <tr>
+        <td colspan="2" width="650">
+         <div class="head">
+          <font size="+2">
+           Minutes of the Federal Open Market Committee
+          </font>
+         </div>
+         <div class="head2">
+          <font size="+1">
+           January 28-29, 2003
+          </font>
+         </div>
+         <p>
+          A meeting of the Federal Open Market Committee was held in the offices of the Board of Governors of the Federal Reserve System in Washington, D.C., on Tuesday, January 28, 2003, at 2:30 p.m. and continued on Wednesday, January 29, 2003, at 9:00 a.m.
+         </p>
+        </td>
+       </tr>
+       <tr>
+        <td width="600">
+         <strong>
+          Present:
+         </strong>
+        </td>
+       </tr>
+      </table>
+      <table border="0" cellpadding="3">
+       <tr>
+        <td width="30">
+        </td>
+        <td valign="top" width="250">
+         Mr. Greenspan, Chairman
+         <br>
+          Mr. McDonough, Vice Chairman
+          <br>
+           Mr. Bernanke
+           <br>
+            Ms. Bies
+            <br>
+             Mr. Broaddus
+             <br>
+              Mr. Ferguson
+              <br>
+               Mr. Gramlich
+               <br>
+                Mr. Guynn
+                <br>
+                 Mr. Kohn
+                 <br>
+                  Mr. Moskow
+                  <br>
+                   Mr. Olson
+                   <br>
+                    Mr. Parry
+                    <br>
+                    </br>
+                   </br>
+                  </br>
+                 </br>
+                </br>
+               </br>
+              </br>
+             </br>
+            </br>
+           </br>
+          </br>
+         </br>
+        </td>
+        <td align="left" valign="top">
+        </td>
+       </tr>
+      </table>
+      <table border="0" cellpadding="3">
+       <tr>
+        <td width="30">
+        </td>
+        <td colspan="4" width="550">
+         <p>
+          Mr. Hoenig, Mses. Minehan and Pianalto, Messrs. Poole and Stewart, 
+       Alternate Members of the Federal Open Market Committee
+          <p>
+           Messrs. McTeer, Santomero, and Stern, Presidents of the Federal Reserve 
+Banks of Dallas, Philadelphia and Minneapolis respectively
+           <p>
+            Mr. Reinhart, Secretary and Economist
+            <br>
+             Mr. Bernard, Deputy Secretary
+             <br>
+              Mr. Gillum, Assistant Secretary
+              <br>
+               Ms. Smith, Assistant Secretary
+               <br>
+                Mr. Mattingly, General Counsel
+                <br>
+                 Ms. Johnson, Economist
+                 <br>
+                  Mr. Stockton, Economist
+                  <br>
+                   <p>
+                    Mr. Connors, Ms. Cumming, Messrs. Eisenbeis, Goodfriend, Howard, Hunter, Judd, Lindsey, Struckmeyer, and Wilcox, Associate Economists
+                    <p>
+                     Mr. Kos, Manager, System Open Market Account
+                     <p>
+                      Messrs. Ettin and Madigan, Deputy Directors, Divisions of Research and 
+        Statistics and Monetary Affairs, respectively, Board of Governors
+                      <p>
+                       Messrs. Slifman and Oliner, Associate Directors, Division of Research and Statistics, Board of Governors
+                       <p>
+                        Mr. Whitesell, Deputy Associate Director, Division of Monetary Affairs, Board of Governors
+                        <p>
+                         Messrs. Clouse and Reifschneider,
+                         <a href="#Footnote1" name="Footref1">
+                          <sup>
+                           1
+                          </sup>
+                         </a>
+                         Assistant Directors, Divisions of Monetary Affairs and Research and Statistics, respectively, Board of Governors
+                         <p>
+                          Mr. Simpson, Senior Adviser, Division of Research and Statistics, Board of Governors
+                          <p>
+                           Mr. Skidmore, Special Assistant to the Board, Office of Board Members, Board of Governors
+                           <p>
+                            Mr. Fallon,
+                            <a href="#Footnote2" name="Footref2">
+                             <sup>
+                              2
+                             </sup>
+                            </a>
+                            Senior Counsel, Legal Division, Board of Governors
+                            <p>
+                             Ms. Haltmaier,
+                             <a href="#Footnote3" name="Footref3">
+                              <sup>
+                               3
+                              </sup>
+                             </a>
+                             Section Chief, Division of International Finance, Board of Governors
+                             <p>
+                              Messrs. Lebow,
+                              <a href="#Footnote3" name="Footref3">
+                               <sup>
+                                3
+                               </sup>
+                              </a>
+                              Sack,
+                              <a href="#Footnote1" name="Footref1">
+                               <sup>
+                                1
+                               </sup>
+                              </a>
+                              and Tetlow,
+                              <a href="#Footnote1" name="Footref1">
+                               <sup>
+                                1
+                               </sup>
+                              </a>
+                              Senior Economists, Divisions of Research and Statistics, Monetary Affairs, and Research and Statistics, respectively, Board of Governors
+                              <p>
+                               Mr. Zakrajsek,
+                               <a href="#Footnote3" name="Footref3">
+                                <sup>
+                                 3
+                                </sup>
+                               </a>
+                               Economist, Division of Monetary Affairs, Board of Governors
+                               <p>
+                                Ms. Low, Open Market Secretariat Assistant, Division of Monetary Affairs, Board of Governors
+                                <p>
+                                 Mr. Lyon, First Vice President, Federal Reserve Bank of Minneapolis
+                                 <p>
+                                  Messrs. Fuhrer and Hakkio, Ms. Mester, Messrs. Rasche and Rosenblum, Senior Vice Presidents, Federal Reserve Banks of Boston, Kansas City, Philadelphia, St. Louis, and Dallas respectively
+                                  <p>
+                                   Messrs. Altig  and Croushore, Ms. Hargraves, Messrs. Miller and Rudebusch, Vice Presidents, Federal Reserve Banks of Cleveland, Philadelphia, New York, Minneapolis, and San Francisco respectively
+                                   <p>
+                                   </p>
+                                  </p>
+                                 </p>
+                                </p>
+                               </p>
+                              </p>
+                             </p>
+                            </p>
+                           </p>
+                          </p>
+                         </p>
+                        </p>
+                       </p>
+                      </p>
+                     </p>
+                    </p>
+                   </p>
+                  </br>
+                 </br>
+                </br>
+               </br>
+              </br>
+             </br>
+            </br>
+           </p>
+          </p>
+         </p>
+        </td>
+       </tr>
+      </table>
+     </hr>
+    </td>
+   </tr>
+  </table>
+  <hr align="left" size="+4" width="80%">
+   <table border="0" cellpadding="5">
+    <tr>
+     <td width="600">
+      <p>
+       In the agenda for this meeting, it was reported that advices of the election of the following members and alternate members of the Federal Open Market Committee for the period commencing January 1, 2003, and ending December 31, 2003, had been received and that these individuals had executed their oaths of office.
+       <p>
+        The elected members and alternate members were as follows:
+        <p>
+         William J. McDonough, President of the Federal Reserve Bank of New York, with
+Jamie B. Stewart, Jr., First Vice President of the Federal Reserve Bank of New York, as alternate.
+         <p>
+          J. Alfred Broaddus, Jr., President of the Federal Reserve Bank of Richmond, with	
+Cathy E. Minehan, President of the Federal Reserve Bank of Boston, as alternate.
+          <p>
+           Jack Guynn, President of the Federal Reserve Bank of Atlanta, with William Poole, President of the Federal Reserve Bank of St. Louis, as alternate
+           <p>
+            Michael H. Moskow, President of the Federal Reserve Bank of Chicago, with
+Sandra Pianalto,
+            <a href="#Footnote4" name="Footref4">
+             <sup>
+              4
+             </sup>
+            </a>
+            President of the Federal Reserve Bank of Cleveland, as alternate.
+            <p>
+             Robert T. Parry, President of the Federal Reserve Bank of San Francisco, with
+Thomas M. Hoenig, President of the Federal Reserve Bank of Kansas City, as alternate
+             <p>
+              By unanimous vote, the following officers of the Federal Open Market Committee were elected to serve until the election of their successors at the first regularly scheduled meeting of the Committee after December 31, 2003, with the understanding that in the event of the discontinuance of their official connection with the Board of Governors or with a Federal Reserve Bank, they would cease to have any official connection with the Federal Open Market Committee:
+              <p>
+               <table>
+                <tr>
+                 <td>
+                  Alan Greenspan
+                 </td>
+                 <td align="right">
+                  Chairman
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  William J. McDonough
+                 </td>
+                 <td align="right">
+                  Vice Chairman
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  Vincent R. Reinhart
+                 </td>
+                 <td align="right">
+                  Secretary and Economist
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  Normand R. V. Bernard
+                 </td>
+                 <td align="right">
+                  Deputy Secretary
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  Gary P. Gillum
+                 </td>
+                 <td align="right">
+                  Assistant Secretary
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  Michelle A. Smith
+                 </td>
+                 <td align="right">
+                  Assistant Secretary
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  J. Virgil Mattingly, Jr.
+                 </td>
+                 <td align="right">
+                  General Counsel
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  Thomas C. Baxter, Jr.
+                 </td>
+                 <td align="right">
+                  Deputy General Counsel
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  Karen H. Johnson
+                 </td>
+                 <td align="right">
+                  Economist
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  David J. Stockton
+                 </td>
+                 <td align="right">
+                  Economist
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  Thomas A. Connors, Christine Cumming,
+                  <br>
+                   Robert A. Eisenbeis, Marvin S. Goodfriend,
+                   <br>
+                    David H. Howard, William C. Hunter,
+                    <br>
+                     John P. Judd, David E. Lindsey,
+                     <br>
+                      Charles S. Struckmeyer, and David W. Wilcox
+                     </br>
+                    </br>
+                   </br>
+                  </br>
+                 </td>
+                 <td align="right" valign="bottom">
+                  Associate Economists
+                 </td>
+                </tr>
+               </table>
+               <p>
+                By unanimous vote, the Federal Reserve Bank of New York was selected to execute transactions for the System Open Market Account until the adjournment of the first regularly scheduled meeting of the Committee after December 31, 2003.
+                <p>
+                 By unanimous vote, Dino Kos was selected to serve at the pleasure of the Committee as Manager, System Open Market Account, on the understanding that his selection was subject to being satisfactory to the Federal Reserve Bank of New York.
+                 <a href="#Footnote5" name="Footref5">
+                  <sup>
+                   5
+                  </sup>
+                 </a>
+                 <p>
+                  By unanimous vote, the Committee approved an amendment to paragraph 2 of the Authorization for Domestic Open Market Operations to give the Federal Reserve Bank of New York discretion to set the minimum lending fee for the System Open Market Account securities lending program below the existing 1.0 percent per annum rate. The Authorization as amended read as follows:
+                  <p>
+                   <div align="center">
+                    <b>
+                     AUTHORIZATION FOR DOMESTIC OPEN MARKET OPERATIONS
+                     <br>
+                     </br>
+                    </b>
+                    (Amended January 28, 2003)
+                    <br>
+                    </br>
+                   </div>
+                   <ol>
+                    <li>
+                     The Federal Open Market Committee authorizes and directs the Federal Reserve Bank of New York, to the extent necessary to carry out the most recent domestic policy directive adopted at a meeting of the Committee:
+                     <p>
+                      <dl>
+                       <dt>
+                        <dd>
+                         (a) To buy or sell U.S. Government securities, including securities of the Federal Financing Bank, and securities that are direct obligations of, or fully guaranteed as to principal and interest by, any agency of the United States in the open market, from or to securities dealers and foreign and international accounts maintained at the Federal Reserve Bank of New York, on a cash, regular, or deferred delivery basis, for the System Open Market Account at market prices, and, for such Account, to exchange maturing U.S. Government and Federal agency securities with the Treasury or the individual agencies or to allow them to mature without replacement; provided that the aggregate amount of U.S. Government and Federal agency securities held in such Account (including forward commitments) at the close of business on the day of a meeting of the Committee at which action is taken with respect to a domestic policy directive shall not be increased or decreased by more than $12.0 billion during the period commencing with the opening of business on the day following such a meeting and ending with the close of business on the day of the next such meeting;
+                        </dd>
+                        <p>
+                         <dd>
+                          (b) To buy U.S. Government securities, obligations that are direct obligations of, or fully guaranteed as to principal and interest by, any agency of the United States, from dealers for the account of the Federal Reserve Bank of New York under agreements for repurchase of such securities or obligations in 65 business days or less, at rates that, unless otherwise expressly authorized by the Committee, shall be determined by competitive bidding, after applying reasonable limitations on the volume of agreements with individual dealers; provided that in the event Government securities or agency issues covered by any such agreement are not repurchased by the dealer pursuant to the agreement or a renewal thereof, they shall be sold in the market or transferred to the System Open Market Account.
+                         </dd>
+                         <p>
+                          <dd>
+                           (c) To sell U.S. Government securities and obligations that are direct obligations of, or fully guaranteed as to principal and interest by, any agency of the United States to dealers for System Open Market Account under agreements for the resale by dealers of such securities or obligations in 65 business days or less, at rates that, unless otherwise expressly authorized by the Committee, shall be determined by competitive bidding, after applying reasonable limitations on the volume of agreements with individual dealers.
+                          </dd>
+                         </p>
+                        </p>
+                       </dt>
+                      </dl>
+                      <p>
+                       <li>
+                        In order to ensure the effective conduct of open market operations, the Federal Open Market Committee authorizes the Federal Reserve Bank of New York to lend on an overnight basis U.S. Government securities held in the System Open Market Account to dealers at rates that shall be determined by competitive bidding.  The Federal Reserve Bank of New York shall set a minimum lending fee consistent with the objectives of the program and apply reasonable limitations on the total amount of a specific issue that may be auctioned and on the amount of securities that each dealer may borrow.  The Federal Reserve Bank of New York may reject bids which could facilitate a dealer's ability to control a single issue as determined solely by the Federal Reserve Bank of New York.
+                        <p>
+                         <li>
+                          In order to ensure the effective conduct of open market operations, while assisting in the provision of short-term investments for foreign and international accounts maintained at the Federal Reserve Bank of New York, the Federal Open Market Committee authorizes and directs the Federal Reserve Bank of New York (a) for System Open Market Account, to sell U.S. Government securities to such foreign and international accounts on the bases set forth in paragraph l(a) under agreements providing for the resale by such accounts of those securities in 65 business days or less on terms comparable to those available on such transactions in the market; and (b) for New York Bank account, when appropriate, to undertake with dealers, subject to the conditions imposed on purchases and sales of securities in paragraph l(b), repurchase agreements in U.S. Government and agency securities, and to arrange corresponding sale and repurchase agreements between its own account and foreign and international accounts maintained at the Bank.  Transactions undertaken with such accounts under the provisions of this paragraph may provide for a service fee when appropriate.
+                          <p>
+                           <li>
+                            In the execution of the Committee's decision regarding policy during any intermeeting period, the Committee authorizes and directs the Federal Reserve Bank of New York, upon the instruction of the Chairman of the Committee, to adjust somewhat in exceptional circumstances the degree of pressure on reserve positions and hence the intended federal funds rate.  Any such adjustment shall be made in the context of the Committee's discussion and decision at its most recent meeting and the Committee's long-run objectives for price stability and sustainable economic growth, and shall be based on economic, financial, and monetary developments during the intermeeting period.  Consistent with Committee practice, the Chairman, if feasible, will consult with the Committee before making any adjustment.
+                           </li>
+                          </p>
+                         </li>
+                        </p>
+                       </li>
+                      </p>
+                     </p>
+                    </li>
+                   </ol>
+                   <p>
+                    <ul>
+                     <ul>
+                      With Mr. Broaddus dissenting, the Authorization for Foreign Currency Operations and the Foreign Currency Directive were reaffirmed as shown below.
+                     </ul>
+                    </ul>
+                    <p>
+                     <div align="center">
+                      <b>
+                       AUTHORIZATION FOR FOREIGN CURRENCY OPERATIONS
+                       <br>
+                       </br>
+                      </b>
+                      (Reaffirmed January 28, 2003)
+                      <br>
+                      </br>
+                     </div>
+                     <ol>
+                      <li>
+                       The Federal Open Market Committee authorizes and directs the Federal Reserve Bank of New York, for System Open Market Account, to the extent necessary to carry out the Committee's foreign currency directive and express authorizations by the Committee pursuant thereto, and in conformity with such procedural instructions as the Committee may issue from time to time:
+                       <p>
+                        <ol>
+                         A. To purchase and sell the following foreign currencies in the form of cable transfers through spot or forward transactions on the open market at home and abroad, including transactions with the U.S. Treasury, with the U.S. Exchange Stabilization Fund established by Section 10 of the Gold Reserve Act of 1934, with foreign monetary authorities, with the Bank for International Settlements, and with other international financial institutions:
+                         <p>
+                          <div align="center">
+                           Canadian dollars
+                           <br>
+                            Danish kroner
+                            <br>
+                             Euro
+                             <br>
+                              Pounds sterling
+                              <br>
+                               Japanese yen
+                               <br>
+                                Mexican pesos
+                                <br>
+                                 Norwegian kroner
+                                 <br>
+                                  Swedish kronor
+                                  <br>
+                                   Swiss francs
+                                   <br>
+                                   </br>
+                                  </br>
+                                 </br>
+                                </br>
+                               </br>
+                              </br>
+                             </br>
+                            </br>
+                           </br>
+                          </div>
+                          <p>
+                           B. To hold balances of, and to have outstanding forward contracts to receive or to deliver, the foreign currencies listed in paragraph A above.
+                           <p>
+                            C. To draw foreign currencies and to permit foreign banks to draw dollars under the reciprocal currency arrangements listed in paragraph 2 below, provided that drawings by either party to any such arrangement shall be fully liquidated within 12 months after any amount outstanding at that time was first drawn, unless the Committee, because of exceptional circumstances, specifically authorizes a delay.
+                            <p>
+                             D. To maintain an overall open position in all foreign currencies not exceeding $25.0 billion.  For this purpose, the overall open position in all foreign currencies is defined as the sum (disregarding signs) of net positions in individual currencies.  The net position in a single foreign currency is defined as holdings of balances in that currency, plus outstanding contracts for future receipt, minus outstanding contracts for future delivery of that currency, i.e., as the sum of these elements with due regard to sign.
+                            </p>
+                           </p>
+                          </p>
+                         </p>
+                        </ol>
+                        <p>
+                         <li>
+                          The Federal Open Market Committee directs the Federal Reserve Bank of New York to maintain reciprocal currency arrangements ("swap" arrangements) for the System Open Market Account for periods up to a maximum of 12 months with the following foreign banks, which are among those designated by the Board of Governors of the Federal Reserve System under Section 214.5 of Regulation N, Relations with Foreign Banks and Bankers, and with the approval of the Committee to renew such arrangements on maturity:
+                          <p>
+                           <table align="center" width="600">
+                            <tr>
+                             <td align="center" valign="middle">
+                              <u>
+                               Foreign bank
+                              </u>
+                             </td>
+                             <td align="center" valign="middle">
+                              Amount of arrangement
+                              <br>
+                               <u>
+                                (millions of dollars equivalent)
+                               </u>
+                              </br>
+                             </td>
+                            </tr>
+                            <tr>
+                             <td align="center">
+                              Bank of Canada
+                             </td>
+                             <td align="center">
+                              2,000
+                             </td>
+                            </tr>
+                            <tr>
+                             <td align="center">
+                              Bank of Mexico
+                             </td>
+                             <td align="center">
+                              3,000
+                             </td>
+                            </tr>
+                           </table>
+                           <p>
+                            Any changes in the terms of existing swap arrangements, and the proposed terms of any new arrangements that may be authorized, shall be referred for review and approval to the Committee.
+                            <p>
+                             <li>
+                              All transactions in foreign currencies undertaken under paragraph 1.A. above shall, unless otherwise expressly authorized by the Committee, be at prevailing market rates.  For the purpose of providing an investment return on System holdings of foreign currencies, or for the purpose of adjusting interest rates paid or received in connection with swap drawings, transactions with foreign central banks may be undertaken at nonmarket exchange rates.
+                              <p>
+                               <li>
+                                It shall be the normal practice to arrange with foreign central banks for the coordination of foreign currency transactions.  In making operating arrangements with foreign central banks on System holdings of foreign currencies, the Federal Reserve Bank of New York shall not commit itself to maintain any specific balance, unless authorized by the Federal Open Market Committee.  Any agreements or understandings concerning the administration of the accounts maintained by the Federal Reserve Bank of New York with the foreign banks designated by the Board of Governors under Section 214.5 of Regulation N shall be referred for review and approval to the Committee.
+                                <p>
+                                 <li>
+                                  Foreign currency holdings shall be invested to ensure that adequate liquidity is maintained to meet anticipated needs and so that each currency portfolio shall generally have an average duration of no more than 18 months (calculated as Macaulay duration).  When appropriate in connection with arrangements to provide investment facilities for foreign currency holdings, U.S. Government securities may be purchased from foreign central banks under agreements for repurchase of such securities within 30 calendar days.
+                                  <p>
+                                   <li>
+                                    All operations undertaken pursuant to the preceding paragraphs shall be reported promptly to the Foreign Currency Subcommittee and the Committee.  The Foreign Currency Subcommittee consists of the Chairman and Vice Chairman of the Committee, the Vice Chairman of the Board of Governors, and such other member of the Board as the Chairman may designate (or in the absence of members of the Board serving on the Subcommittee, other Board members designated by the Chairman as alternates, and in the absence of the Vice Chairman of the Committee, his alternate).  Meetings of the Subcommittee shall be called at the request of any member, or at the request of the Manager, System Open Market Account ("Manager"), for the purposes of reviewing recent or contemplated operations and of consulting with the Manager on other matters relating to his responsibilities.  At the request of any member of the Subcommittee, questions arising from such reviews and consultations shall be referred for determination to the Federal Open Market Committee.
+                                    <p>
+                                     <li>
+                                      The Chairman is authorized:
+                                      <p>
+                                       <ol>
+                                        A. With the approval of the Committee, to enter into any needed agreement or understanding with the Secretary of the Treasury about the division of responsibility for foreign currency operations between the System and the Treasury;
+                                        <p>
+                                         B. To keep the Secretary of the Treasury fully advised concerning System foreign currency operations, and to consult with the Secretary on policy matters relating to foreign currency operations;
+                                         <p>
+                                          C. From time to time, to transmit appropriate reports and information to the National Advisory Council on International Monetary and Financial Policies.
+                                         </p>
+                                        </p>
+                                       </ol>
+                                       <p>
+                                        <li>
+                                         Staff officers of the Committee are authorized to transmit pertinent information on System foreign currency operations to appropriate officials of the Treasury Department.
+                                         <p>
+                                          <li>
+                                           All Federal Reserve Banks shall participate in the foreign currency operations for System Account in accordance with paragraph 3G(1) of the Board of Governors' Statement of Procedure with Respect to Foreign Relationships of Federal Reserve Banks dated January 1, 1944.
+                                          </li>
+                                         </p>
+                                        </li>
+                                       </p>
+                                      </p>
+                                     </li>
+                                    </p>
+                                   </li>
+                                  </p>
+                                 </li>
+                                </p>
+                               </li>
+                              </p>
+                             </li>
+                            </p>
+                           </p>
+                          </p>
+                         </li>
+                        </p>
+                       </p>
+                      </li>
+                     </ol>
+                     <p>
+                      <div align="center">
+                       <b>
+                        FOREIGN CURRENCY DIRECTIVE
+                        <br>
+                        </br>
+                       </b>
+                       (Reaffirmed January 28, 2003)
+                       <br>
+                       </br>
+                      </div>
+                      <ol>
+                       <li>
+                        System operations in foreign currencies shall generally be directed at countering disorderly market conditions, provided that market exchange rates for the U.S. dollar reflect actions and behavior consistent with IMF Article IV, Section 1.
+                        <p>
+                         <li>
+                          To achieve this end the System shall:
+                          <p>
+                           <ol>
+                            A. Undertake spot and forward purchases and sales of foreign exchange.
+                            <p>
+                             B. Maintain reciprocal currency ("swap") arrangements with selected foreign central banks.
+                             <p>
+                              C. Cooperate in other respects with central banks of other countries and with international monetary institutions.
+                             </p>
+                            </p>
+                           </ol>
+                           <p>
+                            <li>
+                             Transactions may also be undertaken:
+                             <p>
+                              <ol>
+                               A. To adjust System balances in light of probable future needs for currencies.
+                               <p>
+                                B. To provide means for meeting System and Treasury commitments in particular currencies and to facilitate operations of the Exchange Stabilization Fund.
+                                <p>
+                                 C. For such other purposes as may be expressly authorized by the Committee.
+                                </p>
+                               </p>
+                              </ol>
+                              <p>
+                               <li>
+                                System foreign currency operations shall be conducted:
+                                <p>
+                                 <ol>
+                                  A. In close and continuous consultation and cooperation with the United States    
+          Treasury;
+                                  <p>
+                                   B. In cooperation, as appropriate, with foreign monetary authorities; and
+                                   <p>
+                                    C. In a manner consistent with the obligations of the United States in the International Monetary Fund regarding exchange arrangements under the IMF Article IV.
+                                    <p>
+                                    </p>
+                                   </p>
+                                  </p>
+                                 </ol>
+                                </p>
+                               </li>
+                              </p>
+                             </p>
+                            </li>
+                           </p>
+                          </p>
+                         </li>
+                        </p>
+                       </li>
+                      </ol>
+                      <p>
+                       Mr. Broaddus dissented in the votes on the Authorization for Foreign Currency Operations and the Foreign Currency Directive because they provide the foundation for foreign exchange market intervention. For the same reasons he had given in the past when he had dissented on these policy instruments, he continued to believe that the Federal Reserve's participation in foreign exchange market intervention compromises its ability to conduct monetary policy effectively.
+                       <p>
+                        By unanimous vote, the Procedural Instructions with Respect to Foreign Currency 
+Operations were reaffirmed in the form shown below.
+                        <p>
+                         <div align="center">
+                          <b>
+                           PROCEDURAL INSTRUCTIONS WITH RESPECT TO
+                           <br>
+                            FOREIGN CURRENCY OPERATIONS
+                            <br>
+                            </br>
+                           </br>
+                          </b>
+                          (Reaffirmed January 28, 2003)
+                         </div>
+                         <p>
+                          In conducting operations pursuant to the authorization and direction of the Federal Open Market Committee as set forth in the Authorization for Foreign Currency Operations and the Foreign Currency Directive, the Federal Reserve Bank of New York, through the Manager, System Open Market Account ("Manager"), shall be guided by the following procedural understandings with respect to consultations and clearances with the Committee, the Foreign Currency Subcommittee, and the Chairman of the Committee.  All operations undertaken pursuant to such clearances shall be reported promptly to the Committee.
+                          <p>
+                           <ol>
+                            <li>
+                             The Manager shall clear with the Subcommittee (or with the Chairman, if the Chairman believes that consultation with the Subcommittee is not feasible in the time available):
+                             <p>
+                              <ol>
+                               A. Any operation that would result in a change in the System's overall open position in foreign currencies exceeding $300 million on any day or $600 million since the most recent regular meeting of the Committee.
+                               <p>
+                                B. Any operation that would result in a change on any day in the System's net position in a single foreign currency exceeding $150 million, or $300 million when the operation is associated with repayment of swap drawings.
+                                <p>
+                                 C. Any operation that might generate a substantial volume of trading in a particular currency by the System, even though the change in the System's net position in that currency might be less than the limits specified in 1.B.
+                                 <p>
+                                  D. Any swap drawing proposed by a foreign bank not exceeding the larger of (i) $200 million or (ii) 15 percent of the size of the swap arrangement.
+                                 </p>
+                                </p>
+                               </p>
+                              </ol>
+                              <p>
+                               <li>
+                                The Manager shall clear with the Committee (or with the Subcommittee, if the Subcommittee believes that consultation with the full Committee is not feasible in the time available, or with the Chairman, if the Chairman believes that consultation with the Subcommittee is not feasible in the time available):
+                                <p>
+                                 <ol>
+                                  A. Any operation that would result in a change in the System's overall open position in foreign currencies exceeding $1.5 billion since the most recent regular meeting of the Committee.
+                                  <p>
+                                   B. Any swap drawing proposed by a foreign bank exceeding the larger of (i) $200 million or (ii) 15 percent of the size of the swap arrangement.
+                                  </p>
+                                 </ol>
+                                 <p>
+                                  <li>
+                                   The Manager shall also consult with the Subcommittee or the Chairman about proposed swap drawings by the System and about any operations that are not of a routine character.
+                                  </li>
+                                 </p>
+                                </p>
+                               </li>
+                              </p>
+                             </p>
+                            </li>
+                           </ol>
+                           <p>
+                            By unanimous vote, the Committee approved the repeal of paragraphs 3 through 6 of the Guidelines for the Conduct of System Open Market Operations in Federal Agency Issues. The Committee initially suspended these paragraphs in August 1999 and subsequently extended the suspension annually for the years through 2002. Paragraphs 1 and 2, which provide general guidance for the conduct of System open market operations in federal agency obligations, were retained in their existing form.
+                            <p>
+                             <div align="center">
+                              <b>
+                               GUIDELINES FOR THE CONDUCT OF SYSTEM OPEN
+                               <br>
+                                MARKET OPERATIONS IN FEDERAL AGENCY ISSUES
+                                <br>
+                                </br>
+                               </br>
+                              </b>
+                              (Amended January 28, 2003)
+                              <br>
+                              </br>
+                             </div>
+                             <ol>
+                              <li>
+                               System open market operations in Federal agency issues are an integral part of total System open market operations designed to influence bank reserves, money market conditions, and monetary aggregates.
+                               <p>
+                                <li>
+                                 System open market operations in Federal agency issues are not designed to support individual sectors of the market or to channel funds into issues of particular agencies.
+                                </li>
+                               </p>
+                              </li>
+                             </ol>
+                             <p>
+                              By unanimous vote, the Committee amended its Program for Security of FOMC Information on January 28, 2003, to update references to the classification of confidential documents and to clarify some of its instructions for safeguarding confidential information.
+                              <p>
+                               By unanimous vote, the Committee amended the Temporary Authority to Operate the System Account to authorize the Chairman to appoint an interim manager of the System Open Market Account in emergency circumstances. The amended Temporary Authority read as follows:
+                               <p>
+                                <div align="center">
+                                 <b>
+                                  TEMPORARY AUTHORITY TO OPERATE THE SYSTEM ACCOUNT
+                                  <br>
+                                  </br>
+                                 </b>
+                                 (Amended January 28, 2003)
+                                 <br>
+                                 </br>
+                                </div>
+                                <p>
+                                 The Chairman of the Committee is authorized to appoint a Federal Reserve Bank as agent to operate the System Account temporarily in case the Federal Reserve Bank of New York is unable to function.   In the event the Chairman exercises such authority, the Chairman also is authorized to appoint a Federal Reserve official to act temporarily as Manager of the System Account.
+                                 <p>
+                                  By unanimous vote, the minutes of the meeting of the Federal Open Market Committee held on December 10, 2002, were approved.
+                                  <p>
+                                   The Manager of the System Open Market Account reported on recent developments in foreign exchange markets.  There were no open market operations in foreign currencies for the System's account in the period since the previous meeting.
+                                   <p>
+                                    The Manager also reported on developments in domestic financial markets and on System open market transactions in government securities and securities issued or fully guaranteed by federal agencies during the period December 10, 2002, through January 28, 2003.  By unanimous vote, the Committee ratified these transactions.
+                                    <p>
+                                     At this meeting the Committee discussed staff presentations on whether policy adjustments incorporating gradual movements in the federal funds rate were desirable in terms of optimally achieving the Committee's macroeconomic objectives.  The staff presentations examined whether policy adjustments historically had been implemented gradually or whether, instead, the observed tendency for the federal funds rate to move slowly through time reflected the behavior of the underlying variables to which policy was responding. Members expressed a range of views regarding the evidence and its implications for policy, including potential situations that might call for relatively aggressive policy actions.
+                                     <p>
+                                      The Committee then turned to a discussion of the economic and financial outlook and the implementation of monetary policy over the intermeeting period ahead.
+                                      <p>
+                                       The information reviewed at this meeting suggested that economic growth was very slow in the fourth quarter. Housing demand and consumer spending firmed toward the end of the year, but capital spending remained quite weak in an environment of substantial business uncertainty and pessimism. A sharp drop in motor vehicle output held down overall industrial production, and the labor market deteriorated further. Core consumer price inflation continued to decline through the end of the year.
+                                       <p>
+                                        Private nonfarm payroll employment fell again in December and was at its lowest level since September 1999. Job losses in manufacturing continued to be sizable, and employment in retail trade plunged, although part of that decline might have been attributable to lower-than-usual hiring of temporary sales help for the holiday season. By contrast, hiring in the services industry picked up, and employment in the finance, insurance, and real estate group continued to expand. The unemployment rate held at 6 percent in December, a level consistent with other labor market indicators.
+                                        <p>
+                                         Industrial production slowed a little further in December, reflecting another sharp drop in motor vehicle assemblies and a decline in electricity generation. Excluding motor vehicles and parts, manufacturing output increased slightly following small declines in October and November. Production of high-tech goods continued to rise in December, and output in industries other than high-tech and transportation increased for the first time since August. Despite the uptick in production in some areas of manufacturing, capacity utilization in manufacturing fell again in December and was substantially below its long-run average.
+                                         <p>
+                                          Retail sales increased appreciably in November and December even though disposable personal income posted relatively modest gains and readings on consumer confidence were generally low. Purchases of new motor vehicles were brisk and were accompanied by moderate further increases in other categories of retail sales.
+                                          <p>
+                                           Residential housing activity remained strong through the end of the year, despite continued sluggish employment and additional declines in household wealth. With mortgage rates remaining near historical lows, single-family housing starts increased further in November and December, and the backlog of unused permits along with other information suggested that starts likely would remain strong in coming months. New home sales reached yet another record high in December, and existing home sales neared their record level established in January 2002. In the multifamily sector, starts rebounded in November and December from a sharp drop in October. Nonetheless, multifamily homebuilding was at a relatively low level at year-end, reflecting falling rents and high vacancy rates.
+                                           <p>
+                                            Business spending on equipment and software appeared to have little or no forward momentum in the fourth quarter and to have been weaker than might have been suggested by the recent pattern of business output, corporate cash flow, and the user cost of capital. Both shipments of and orders for nondefense capital goods turned down in the fourth quarter, with aircraft and communications equipment registering the steepest declines in shipments. In the nonresidential sector, construction activity slowed only a little further in October and November following a sharp drop in the third quarter. However, current weakness in rents and property values suggested continued deterioration in activity.
+                                            <p>
+                                             The book value of manufacturing and trade inventories excluding motor vehicles dropped sharply in October and changed little in November. Manufacturers trimmed stocks in both months, though durable goods manufacturers increased their inventories sharply in December. Wholesalers cut their inventories substantially in October and held them steady in November. Retail inventories changed little over the two-month period. Aggregate inventory-sales ratios in all three categories remained at very low levels.
+                                             <p>
+                                              The U.S. trade deficit in goods and services widened significantly in November, with the value of imports rising more than that of exports. Combining October and November, imports increased from the third-quarter average while exports declined somewhat. Available information on economic activity abroad in the fourth quarter suggested slower growth on average in the major foreign economies. Economic expansion in Japan appeared to have slowed markedly, and growth in the euro area remained sluggish. By contrast, the Canadian economy continued to expand briskly while activity in the United Kingdom seemed to be growing more moderately. In the emerging market economies, conditions in South America were generally still fragile, the pace of economic recovery in Mexico appeared to have slowed, and growth had softened in much of emerging Asia. Economic growth in China remained strong.
+                                              <p>
+                                               Core consumer price inflation, as measured by the consumer price index (CPI) and the chain-weighted personal consumption expenditure (PCE) index, continued to edge lower through the end of the year. However, the sizable run-up in energy prices last year boosted overall consumer price inflation somewhat on a year-over-year basis. At the producer level, core prices for finished goods declined in November and December, but for the year as a whole the jump in energy prices pushed overall producer prices for finished goods up slightly. With regard to labor costs, average hourly earnings of production or nonsupervisory workers increased moderately in December, but the change in those earnings over the year was considerably smaller than in 2001, evidently reflecting the slack in labor markets.
+                                               <p>
+                                                At its meeting on December 10, 2002, the Committee adopted a directive that called for maintaining conditions in reserve markets consistent with keeping the federal funds rate around 1-1/4 percent and retained an assessment that the risks to its longer-term objectives were balanced. The Committee noted that monetary policy was quite accommodative and well positioned to support a strengthening economic expansion in line with the members' expectations for coming quarters. The Committee's decision was widely anticipated and elicited little reaction. Financial markets were sensitive, however, to shifting perceptions of global risks, economic releases that generally were seen as having a disappointing tone, pessimistic expectations for fourth-quarter corporate profits, and the Administration's announcement of an economic stimulus package larger than had been anticipated. Against that backdrop, longer-term Treasury yields declined somewhat while, in private debt markets, a sense of reduced concern about governance issues and perhaps some increased appetite for risk-taking led to a substantial decline in yields across the credit spectrum that further narrowed risk spreads. Major stock price indexes moved widely during the intermeeting period, but most finished the period a little lower.
+                                                <p>
+                                                 The dollar depreciated substantially in terms of an index of major foreign currencies, with particularly large declines against the euro, the yen, and the Swiss franc. Market worries about growing tensions over Iraq and North Korea appeared to be a key factor, but concerns about the downbeat tone of recent U.S. economic data and the potential vulnerability of the dollar to a general pullback of international capital further damped market sentiment. The drop of the dollar occurred despite continued signs of weak growth in the euro area and Japan and sizable reductions in the yields of their long-term government securities.
+                                                 <p>
+                                                  Growth of M2 fell considerably in December. Much of the deceleration was concentrated in the liquid components of the aggregate, likely reflecting in part an adjustment in the volume of mortgage refinancings and the associated prepayments on mortgage-backed securities.
+                                                  <p>
+                                                   The staff forecast prepared for this meeting suggested that the expansion of economic activity would be muted in the very near term. Faced with intensified geopolitical tensions as well as continuing pessimism about the near-term course of economic activity, labor market conditions, and corporate earnings, businesses and consumers were likely to hold down their spending. In addition, continued sluggish economic growth among most major trading partners would tend to damp U.S. exports. However, those restraining influences were expected to abate over time.  The considerable monetary ease already in place, the prospect of significantly more fiscal stimulus, the continuing strong gains in structural productivity, and the anticipated improvement in business confidence would provide significant impetus to spending. Inventory overhangs had been largely eliminated, and business capital stocks had moved closer to desired levels. As a consequence, a slowly improving outlook for sales and profits, low financing costs, and the temporary federal tax incentive for investment in new equipment and software were expected to gradually boost business investment spending. The persistence of underutilized resources would tend to foster some moderation in core price inflation.
+                                                   <p>
+                                                    In the Committee's discussion of current and prospective economic developments, members emphasized that their forecasts were subject to substantial uncertainties, dominated at this point by the geopolitical situation, but they continued to view a pickup in economic growth as a reasonable expectation for the year ahead. Household spending had been well maintained over the course of recent months, but a high degree of caution had induced business firms to continue to hold down their spending and hiring. It was suggested that the uncertainties relating to geopolitical tensions and possible war in Iraq, important factors contributing to business caution, might be at least partly resolved in the near term, helping to roll back some of the recent increase in oil prices and likely having favorable implications for consumer and business spending. Even so, the response of the economy was hard to anticipate because of the difficulty of disentangling the effects of current geopolitical tensions from the underlying momentum of the economy. Moreover, even a short and successful military campaign could give rise to a variety of disruptions that might limit at least for a time an improvement in business and consumer confidence.
+                                                    <p>
+                                                     The members nonetheless saw a number of favorable factors that could be expected to foster a relatively robust economic expansion over time. These included a stimulative monetary policy along with generally accommodative financial conditions, the prospect of additional fiscal stimulus, an increasing need for expenditures by business firms to replace depreciated equipment and to maintain acceptable inventory levels, and continued vigorous growth in productivity that would support profits and incomes. With regard to the outlook for inflation, prospective growth of spending in line with the members' forecasts likely would continue to be associated with only muted pressures on labor and other resources over the year ahead, and given current trends in productivity, members anticipated that consumer price inflation would remain subdued; indeed, modest further disinflation might occur over the year ahead.
+                                                     <p>
+                                                      In preparing for the semiannual monetary policy report to Congress, the Board members and Reserve Bank presidents provided individual projections of the growth of GDP, civilian unemployment, and consumer price inflation for the year 2003. The members agreed that because of the unusual uncertainties that clouded their current forecasts, the latter should be viewed as having extremely wide confidence bands. Their forecasts envisaged a strengthening economic recovery but not one that was likely to induce a material, if any, decline in the unemployment rate over the year ahead. Their forecasts of growth in real GDP for 2003 had a central tendency of 3-1/4 to 3-1/2 percent and a full range of 3 to 3-3/4 percent, measured as the change between the fourth quarter of 2002 and the fourth quarter of 2003. Their projections of the civilian unemployment rate in the fourth quarter of the year were all in a range of 5-3/4 to 6 percent. Their forecasts of consumer price inflation for the year, as measured by the PCE chain-type price index, were centered in a range of 1-1/4 to 1-1/2 percent, with a full range of 1-1/4 to 1-3/4 percent.
+                                                      <p>
+                                                       In the Committee's discussion of developments in key sectors of the economy, members continued to place emphasis on the critical role of business spending and hiring decisions in determining the strength of the expansion. An elevated level of business caution clearly was holding back investment spending, and there were few signs of a pickup in the near term. Given an eventual reduction in prevailing uncertainties, however, a number of members noted that the outlook for business spending was favorable, and they did not rule out a sharp snapback in business expenditures as the year progressed. Factors cited in support of this view included the wide availability and low cost of capital, the increasing need for replacing worn and outdated capital equipment with the passage of time, a decline in overall stocks of capital in relation to the economy's growing potential, and the anticipated continuation of what appeared to be an upward trend in sales, cash flows, and profits. Some members also referred to the positive effects on some business decisions of the temporary federal tax incentives for expenditures on business equipment and software. The members agreed that the strength and timing of the prospective improvement remained subject to a high degree of uncertainty.  Indeed, a number of members commented that it was possible that some easing of geopolitical tensions would not lead to a major near-term upturn in business confidence and business expenditures.  Such an outcome would be especially likely if oil supplies were disrupted, a threat that could not be ruled out, with adverse consequences for oil prices and business costs.  Moreover, the current excess capacity would permit many firms to meet likely demands for some period of time without a significant increase in capital investments.
+                                                       <p>
+                                                        The evident uncertainty and pessimism in the business community were also reflected in tight inventory control policies. Despite continuing gains in final sales, inventories were estimated to have changed little in the fourth quarter and currently were at levels that were widely viewed as unusually low in relation to sales. In these circumstances, an easing at some point of current uncertainties and strengthening confidence should induce inventory rebuilding, with positive implications, at least for a time, for the expansion of economic activity.
+                                                        <p>
+                                                         The household sector had continued to provide vital support to overall demand in recent months despite a deteriorating trend in consumer confidence. While numerous contacts reported generally disappointing holiday sales in an environment of atypically large and widespread discounting, a surge in motor vehicle sales in December fostered by aggressive sales incentives and some pickup in retail sales late in the holiday season helped to sustain moderate overall growth in consumer spending through the year-end. Looking ahead, a number of factors seemed likely to undergird consumer spending, including the positive effects on permanent incomes of robust ongoing growth in productivity, the possibly accelerated phase-in of tax reductions stemming from earlier legislation, the prospects for additional reductions in federal taxes affecting household incomes, and more generally the continued favorable effects of low interest rates and widely available financing on consumer purchases of motor vehicles and other durables. At the same time, some members expressed concern about the potential for adverse effects on consumer incomes and confidence should stagnant conditions persist in labor markets and equity markets weaken further.  Reference also was made to the possibility suggested by some analysts that the value of housing wealth might be leveling off.  In that event mortgage refinancings might moderate once mortgage rates stabilized, reducing the impetus to consumer spending from this source.
+                                                         <p>
+                                                          Statistical indicators of housing activity and anecdotal reports from numerous parts of the country pointed to persisting strength in homebuilding, with no signs of a slowdown in most areas. Members generally anticipated that activity in this sector of the economy would be well maintained in the context of low mortgage rates and further growth in incomes, but a few expressed reservations about forecasts of a further pickup this year.
+                                                          <p>
+                                                           The members anticipated the enactment of new legislation that would add to the fiscal stimulus that was already incorporated in earlier legislation. While greater fiscal stimulus appeared to be desirable to counter near-term weakness in the economy, the new legislation probably could not be enacted in time to begin to exert an expansionary impact on the economy before the latter part of this year when the anticipated strengthening of the economy might already be well under way.  Members also observed that, given the competing legislative proposals currently under consideration, the eventual components and size of that legislation were very uncertain at this point, though they were likely to be importantly influenced by the performance of the economy and especially labor market conditions over coming months. A number of members expressed the hope that the legislation would not encompass provisions that would lead to permanently large federal deficits with negative consequences for the economy over the longer term.
+                                                           <p>
+                                                            As they had at previous meetings, members also commented on the severe fiscal problems being experienced by numerous state and local governments. It was noted that state revenue shortfalls were being aggravated by federally mandated costs related to homeland security that were not, at least currently, being reimbursed by the federal government. Another problem related to certain tax proposals under consideration in the Congress, notably the exclusion of dividends from income, that could have adverse consequences for the revenues of numerous state and local governments that linked their taxable incomes to those reported on federal returns. More generally, while state and local efforts to redress budget imbalances were likely to offset only a small part of the probable stimulus in forthcoming federal legislation, some members commented that those efforts might well involve more fiscal restraint than was currently foreseen by some analysts.
+                                                            <p>
+                                                             Largely reflecting their expectations of ongoing, albeit diminishing, slack in labor and product markets, the members anticipated that consumer price inflation probably would edge down over the next several quarters from an already low level. Members also referred to a number of crosscurrents bearing on the outlook for prices that included the adverse effects of recent declines in the dollar and higher oil prices but also the opposing effects of a strong uptrend in productivity and highly competitive markets in holding down prices and costs. With regard to labor costs, members cited anecdotal evidence of persisting weakness in numerous regional labor markets and, given the current reluctance of employers to add to their workforces, the prospect that job gains and labor compensation would tend to lag the anticipated strengthening in economic activity, as they often had in the past.
+                                                             <p>
+                                                              In the Committee's discussion of policy for the intermeeting period, all the members supported a proposal to maintain an unchanged policy stance. While the economy had continued to grow slowly, monetary policy and overall financial conditions had remained accommodative and the prospects for an appreciable strengthening of the economic expansion over time were favorable. As some of the prevailing uncertainties currently impairing spending began to lift, possibly in the near term with regard to military developments in the Middle East, the Committee should be in a much better position to assess the underlying strength of the economy and the appropriate policy response. At this point, the Committee could not rule out a range of plausible economic outcomes, including the possibility of a persisting subpar economic performance or a much stronger than forecast acceleration of the expansion. Indeed, the Committee could envision circumstances when it might find it desirable to adjust its policy stance substantially and promptly in one direction or the other in the months ahead. The members concluded that a wait-and-see policy stance was desirable pending an improved basis for judging the ongoing performance of the economy. They also agreed that the accommodative stance of policy, developments over the intermeeting period, and their current forecasts in the context of tensions abroad argued for retaining a balanced risks assessment to be included in the statement that would be made public shortly after this meeting.
+                                                              <p>
+                                                               At the conclusion of this discussion, the Committee voted to authorize and direct the Federal Reserve Bank of New York, until it was instructed otherwise, to execute transactions in the System Account in accordance with the following domestic policy directive:
+                                                               <p>
+                                                                <blockquote>
+                                                                 <p>
+                                                                  The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.  To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with maintaining the federal funds rate at an average of around 1-1/4 percent.
+                                                                 </p>
+                                                                </blockquote>
+                                                                <p>
+                                                                 The votes encompassed approval of the sentence below for inclusion in the press statement to be released shortly after the meeting.
+                                                                 <blockquote>
+                                                                  Against the background of its long-run goals of price stability and sustainable economic growth and of the information currently available, the Committee believes that the risks are balanced with respect to prospects for both goals in the foreseeable future.
+                                                                  <p>
+                                                                   <b>
+                                                                    Votes for this action:
+                                                                   </b>
+                                                                   Messrs. Greenspan, McDonough, 
+and Bernanke, Ms. Bies, Messrs. Broaddus, Ferguson, Gramlich, Guynn, Kohn, Moskow, Olson, and Parry.
+                                                                   <p>
+                                                                    <b>
+                                                                     Vote against this action:
+                                                                    </b>
+                                                                    None.
+                                                                   </p>
+                                                                  </p>
+                                                                 </blockquote>
+                                                                 <p>
+                                                                  <!--- fed --->
+                                                                  <!-- <strong>Disclosure Policy</strong><br>
+In accordance with the Committee's routine practice of reviewing its rules and regulations at its first regular meeting of each year, the members discussed their policies regarding the extent of the information that is released to the public about its discussions and decisions along with the timing of the release of such information. They noted that the changes in disclosure policy and practices implemented in recent years, including the announcement of policy actions and brief explanations of the basis for those actions, have served both the Federal Reserve and the public well. They also believed that it would be appropriate to explore whether there might be scope for some further evolution in the Committee's policies in the direction of greater transparency, though additional study and analysis would be needed. They agreed to discuss the issues further at a future meeting.
+<p> -->
+                                                                  It also was agreed that the next meeting of the Committee would be held on Tuesday, March 18, 2003.
+                                                                  <p>
+                                                                   The meeting adjourned at 12:55 p.m. on January 29, 2003.
+                                                                   <p>
+                                                                    <p>
+                                                                     <p>
+                                                                      <center>
+                                                                       <b>
+                                                                        Vincent R. Reinhart
+                                                                        <br>
+                                                                         Secretary
+                                                                        </br>
+                                                                       </b>
+                                                                      </center>
+                                                                      <p>
+                                                                      </p>
+                                                                     </p>
+                                                                    </p>
+                                                                   </p>
+                                                                  </p>
+                                                                 </p>
+                                                                </p>
+                                                               </p>
+                                                              </p>
+                                                             </p>
+                                                            </p>
+                                                           </p>
+                                                          </p>
+                                                         </p>
+                                                        </p>
+                                                       </p>
+                                                      </p>
+                                                     </p>
+                                                    </p>
+                                                   </p>
+                                                  </p>
+                                                 </p>
+                                                </p>
+                                               </p>
+                                              </p>
+                                             </p>
+                                            </p>
+                                           </p>
+                                          </p>
+                                         </p>
+                                        </p>
+                                       </p>
+                                      </p>
+                                     </p>
+                                    </p>
+                                   </p>
+                                  </p>
+                                 </p>
+                                </p>
+                               </p>
+                              </p>
+                             </p>
+                            </p>
+                           </p>
+                          </p>
+                         </p>
+                        </p>
+                       </p>
+                      </p>
+                     </p>
+                    </p>
+                   </p>
+                  </p>
+                 </p>
+                </p>
+               </p>
+              </p>
+             </p>
+            </p>
+           </p>
+          </p>
+         </p>
+        </p>
+       </p>
+      </p>
+     </td>
+    </tr>
+   </table>
+   <p>
+    <a href="#pagetop">
+     <img alt="Return to top" border="0" hspace="5" src="/gifjpg/uparrow.gif">
+      Return to top
+     </img>
+    </a>
+    <table width="600">
+     <tr>
+      <td>
+       <hr>
+        <p>
+         <b>
+          Footnotes
+         </b>
+         <p>
+          1.  Attended portion of meeting relating to discussion of gradualism in policymaking.
+          <a href="#Footref1" name="Footnote1">
+           Return to text
+          </a>
+          <br>
+           2.  Attended portion of meeting relating to FOMC rule changes.
+           <a href="#Footref2" name="Footnote2">
+            Return to text
+           </a>
+           <br>
+            3.  Attended portion of meeting relating to the FOMC's review of the economic outlook.
+            <a href="#Footref3" name="Footnote3">
+             Return to text
+            </a>
+            <br>
+             4.  Election effective February 1, 2003.
+             <a href="#Footref4" name="Footnote4">
+              Return to text
+             </a>
+             <br>
+              5.  Secretary's note:  Advice subsequently was received that the selection of Mr. Kos as Manager was satisfactory to the board of directors of the New York Reserve Bank.
+              <a href="#Footref5" name="Footnote5">
+               Return to text
+              </a>
+              <p>
+              </p>
+             </br>
+            </br>
+           </br>
+          </br>
+         </p>
+        </p>
+       </hr>
+      </td>
+     </tr>
+    </table>
+    <p>
+     <a href="/FOMC/">
+      FOMC
+     </a>
+     <br>
+      <hr noshade="">
+       <div class="footer">
+        <a href="/">
+         Home
+        </a>
+        |
+        <a href="/policy.htm">
+         Monetary policy
+        </a>
+        <br>
+         <a href="/accessibility.htm">
+          Accessibility
+         </a>
+         |
+         <a href="/feedback.cfm">
+          Contact Us
+         </a>
+         <br>
+          <font style="line-height: 16px;">
+           <b>
+            Last update: March 20, 2003, 2:00 
+        PM
+           </b>
+          </font>
+         </br>
+        </br>
+       </div>
+       <script src="/resources/track_downloads.js" type="text/javascript">
+       </script>
+      </hr>
+     </br>
+    </p>
+   </p>
+  </hr>
+ </body>
+</html>

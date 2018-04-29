@@ -1,0 +1,159 @@
+<div id="leftText">
+ A meeting of the Federal Open Market Committee was held in the offices of the Board of Governors of the Federal Reserve System in Washington, D.C., on Monday, December 15, 2008 at 2:00 p.m. and continued on Tuesday, December 16, 2008 at 9:00 a.m.
+ <p>
+  PRESENT:
+  <br>
+   Mr. Bernanke, Chairman
+   <br>
+    Ms. Duke
+    <br>
+     Mr. Fisher
+     <br>
+      Mr. Kohn
+      <br>
+       Mr. Kroszner
+       <br>
+        Ms. Pianalto
+        <br>
+         Mr. Plosser
+         <br>
+          Mr. Stern
+          <br>
+           Mr. Warsh
+          </br>
+         </br>
+        </br>
+       </br>
+      </br>
+     </br>
+    </br>
+   </br>
+  </br>
+ </p>
+ <p>
+  Ms. Cumming, Messrs. Evans, Lacker, and Lockhart, and Ms. Yellen, Alternate Members of the Federal Open Market Committee
+ </p>
+ <p>
+  Messrs. Bullard, Hoenig, and Rosengren, Presidents of the Federal Reserve Banks of St. Louis, Kansas City, and Boston, respectively
+ </p>
+ <p>
+  Mr. Madigan, Secretary and Economist
+  <br>
+   Ms. Danker, Deputy Secretary
+   <br>
+    Mr. Skidmore, Assistant Secretary
+    <br>
+     Ms. Smith, Assistant Secretary
+     <br>
+      Mr. Alvarez, General Counsel
+      <br>
+       Mr. Ashton,
+       <a href="#fn1" name="text1">
+        <sup>
+         1
+        </sup>
+       </a>
+       Assistant General Counsel
+       <br>
+        Mr. Sheets, Economist
+        <br>
+         Mr. Stockton, Economist
+        </br>
+       </br>
+      </br>
+     </br>
+    </br>
+   </br>
+  </br>
+ </p>
+ <p>
+  Messrs. Connors, English, and Kamin, Ms. Mester, Messrs. Rolnick, Rosenblum, Slifman, and Wilcox, Associate Economists
+ </p>
+ <p>
+  Mr. Dudley, Manager, System Open Market Account
+ </p>
+ <p>
+  Mr. Cole, Director, Division of Banking Supervision and Regulation, Board of Governors
+ </p>
+ <p>
+  Ms. Johnson,
+  <a href="#fn2" name="text2">
+   <sup>
+    2
+   </sup>
+  </a>
+  Secretary, Office of the Secretary, Board of Governors
+ </p>
+ <p>
+  Mr. Struckmeyer, Deputy Staff Director, Office of Staff Director for Management, Board of Governors
+ </p>
+ <p>
+  Mr. Blanchard, Assistant to the Board, Office of Board Members, Board of Governors
+ </p>
+ <p>
+  Messrs. Clouse and Parkinson,
+  <a href="#fn1" name="text1">
+   <sup>
+    1
+   </sup>
+  </a>
+  Deputy Directors, Divisions of Monetary Affairs and Research and Statistics, respectively, Board of Governors
+ </p>
+ <p>
+  Mr. Frierson,
+  <a href="#fn2" name="text2">
+   <sup>
+    2
+   </sup>
+  </a>
+  Deputy Secretary, Office of the Secretary, Board of Governors
+ </p>
+ <p>
+  Messrs. Leahy,
+  <a href="#fn2" name="text2">
+   <sup>
+    2
+   </sup>
+  </a>
+  Nelson,
+  <a href="#fn3" name="text3">
+   <sup>
+    3
+   </sup>
+  </a>
+  Reifschneider, and Wascher, Associate Directors, Divisions of International Finance, Monetary Affairs, Research and Statistics, and Research and Statistics, respectively, Board of Governors
+ </p>
+ <p>
+  Mr. Gagnon,
+  <a href="#fn2" name="text2">
+   <sup>
+    2
+   </sup>
+  </a>
+  Visiting Associate Director, Division of Monetary Affairs, Board of Governors
+ </p>
+ <p>
+  Ms. Shanks,
+  <a href="#fn2" name="text2">
+   <sup>
+    2
+   </sup>
+  </a>
+  Associate Secretary, Office of the Secretary, Board of Governors
+ </p>
+ <p>
+  Messrs. Perli and Reeve, Deputy Associate Directors, Divisions of Monetary Affair and International Finance, respectively, Board of Governors
+ </p>
+ <p>
+  Mr. Covitz, Assistant Director, Division of Research and Statistics, Board of Governors
+ </p>
+ <p>
+  Ms. Goldberg,
+  <a href="#fn2" name="text2">
+   <sup>
+    2
+   </sup>
+  </a>
+  Visiting Reserve Bank Officer, Division of International Finance, Board of Governors
+ </p>
+</div>

@@ -1,0 +1,541 @@
+<div id="leftText">
+ A meeting of the Federal Open Market Committee was held in the offices of the Board of Governors of the Federal Reserve System in Washington, D.C., on Tuesday, January 29, 2008 at 2:00 p.m. and continued on Wednesday, January 30, 2008 at 9:00 a.m.
+ <p>
+  <strong>
+   Present:
+  </strong>
+  <br>
+   Mr. Bernanke, Chairman
+   <br>
+    Mr. Geithner, Vice Chairman
+    <br>
+     Mr. Fisher
+     <br>
+      Mr. Kohn
+      <br>
+       Mr. Kroszner
+       <br>
+        Mr. Mishkin
+        <br>
+         Ms. Pianalto
+         <br>
+          Mr. Plosser
+          <br>
+           Mr. Stern
+           <br>
+            Mr. Warsh
+            <br/>
+           </br>
+          </br>
+         </br>
+        </br>
+       </br>
+      </br>
+     </br>
+    </br>
+   </br>
+  </br>
+ </p>
+ <p>
+  Messrs. Evans, Lacker, and Lockhart, and Ms. Yellen, Alternate Members of the Federal Open Market Committee
+ </p>
+ <p>
+  Messrs. Hoenig, Poole, and Rosengren, Presidents of the Federal Reserve Banks of Kansas City, St. Louis, and Boston, respectively
+ </p>
+ <p>
+  Mr. Madigan, Secretary and Economist
+  <br>
+   Ms. Danker, Deputy Secretary
+   <br>
+    Mr. Skidmore, Assistant Secretary
+    <br>
+     Ms. Smith, Assistant Secretary
+     <br>
+      Mr. Alvarez, General Counsel
+      <br>
+       Mr. Baxter, Deputy General Counsel
+       <br>
+        Mr. Sheets, Economist
+        <br>
+         Mr. Stockton, Economist
+        </br>
+       </br>
+      </br>
+     </br>
+    </br>
+   </br>
+  </br>
+ </p>
+ <p>
+  Messrs. Connors, English, and Kamin, Ms. Mester, Messrs. Rosenblum, Slifman, Sniderman, Tracy, and Wilcox, Associate Economists
+ </p>
+ <p>
+  Mr. Dudley, Manager, System Open Market Account
+ </p>
+ <p>
+  Mr. Struckmeyer,
+  <a href="#fn1" name="text1">
+   <sup>
+    1
+   </sup>
+  </a>
+  Deputy Staff Director, Office of Staff Director for Management, Board of Governors
+ </p>
+ <p>
+  Mr. Parkinson,
+  <a href="#fn2" name="text2">
+   <sup>
+    2
+   </sup>
+  </a>
+  Deputy Director, Division of Research and Statistics, Board of Governors
+  <p>
+   Mr. Clouse, Senior Associate Director, Division of Monetary Affairs, Board of Governors
+  </p>
+  <p>
+   Ms. Liang and Messrs. Reifschneider and Wascher, Associate Directors, Division of Research and Statistics, Board of Governors
+  </p>
+  <p>
+   Ms. Barger
+   <a href="#fn2">
+    <sup>
+     2
+    </sup>
+   </a>
+   and Mr. Greenlee,
+   <a href="#fn2">
+    <sup>
+     2
+    </sup>
+   </a>
+   Associate Directors, Division of Banking Supervision and Regulation, Board of Governors
+  </p>
+  <p>
+   Mr. Gibson,
+   <a href="#fn2">
+    <sup>
+     2
+    </sup>
+   </a>
+   Deputy Associate Director, Division of Research and Statistics, Board of Governors
+  </p>
+  <p>
+   Mr. Dale, Senior Adviser, Division of Monetary Affairs, Board of Governors
+  </p>
+  <p>
+   Mr. Oliner, Senior Adviser, Division of Research and Statistics, Board of Governors
+  </p>
+  <p>
+   Messrs. Durham and Perli, Assistant Directors, Division of Monetary Affairs, Board of Governors
+  </p>
+  <p>
+   Mr. Blanchard, Assistant to the Board, Office of Board Members, Board of Governors
+  </p>
+  <p>
+   Mr. Small, Project Manager, Division of Monetary Affairs, Board of Governors
+  </p>
+  <p>
+   Mr. Bassett,
+   <a name="text3">
+   </a>
+   <a href="#fn3">
+    <sup>
+     3
+    </sup>
+   </a>
+   Senior Economist, Division of Monetary Affairs, Board of Governors
+  </p>
+  <p>
+   Mr. Doyle,
+   <a href="#fn3">
+    <sup>
+     3
+    </sup>
+   </a>
+   Senior Economist, Division of International Finance, Board of Governors
+  </p>
+  <p>
+   Ms. Kusko,
+   <a href="#fn3">
+    <sup>
+     3
+    </sup>
+   </a>
+   Senior Economist, Division of Research and Statistics, Board of Governors
+  </p>
+  <p>
+   Mr. Luecke, Senior Financial Analyst, Division of Monetary Affairs, Board of Governors
+  </p>
+  <p>
+   Mr. Driscoll, Economist, Division of Monetary Affairs, Board of Governors
+  </p>
+  <p>
+   Ms. Low, Open Market Secretariat Specialist, Division of Monetary Affairs, Board of Governors
+  </p>
+  <p>
+   Ms. Green, First Vice President, Federal Reserve Bank of Richmond
+  </p>
+  <p>
+   Messrs. Fuhrer and Judd, Executive Vice Presidents, Federal Reserve Banks of Boston and San Francisco, respectively
+  </p>
+  <p>
+   Messrs. Altig and Angulo,
+   <a href="#fn2">
+    <sup>
+     2
+    </sup>
+   </a>
+   Mses. Hirtle
+   <a href="#fn2">
+    <sup>
+     2
+    </sup>
+   </a>
+   and Mosser, Messrs. Peters
+   <a href="#fn2">
+    <sup>
+     2
+    </sup>
+   </a>
+   and Rasche, Senior Vice Presidents, Federal Reserve Banks of Atlanta, New York, New York, New York, New York, and St. Louis, respectively
+  </p>
+  <p>
+   Mr. Hakkio, Senior Adviser, Federal Reserve Bank of Kansas City
+  </p>
+  <p>
+   Mr. Krane, Vice President, Federal Reserve Bank of Chicago
+  </p>
+  <p>
+   Mr. Weber, Senior Research Officer, Federal Reserve Bank of Minneapolis
+  </p>
+  <hr>
+   <p>
+    <a name="fn1">
+    </a>
+    1. Attended Wednesday's session.
+    <a href="#text1">
+     Return to text
+    </a>
+    <br>
+     <a name="fn2">
+     </a>
+     2. Attended portion of the meeting relating to the analysis of policy issues raised by financial market developments.
+     <a href="#text2">
+      Return to text
+     </a>
+     <br>
+      <a name="fn3">
+      </a>
+      3. Attended portion of the meeting relating to the economic outlook and monetary policy decision.
+      <a href="#text3">
+       Return to text
+      </a>
+     </br>
+    </br>
+   </p>
+   <hr>
+    <p>
+     In the agenda for this meeting, it was reported that advices of the election of the following members and alternate members of the Federal Open Market Committee for a term beginning January 29, 2008 had been received and that these individuals had executed their oaths of office.
+    </p>
+    <p>
+     The elected members and alternate members were as follows:
+    </p>
+    <p>
+     Timothy F. Geithner, President of the Federal Reserve Bank of New York, with Christine M. Cumming, First Vice President of the Federal Reserve Bank of New York, as alternate.
+    </p>
+    <p>
+     Charles I. Plosser, President of the Federal Reserve Bank of Philadelphia, with Jeffrey M. Lacker, President of the Federal Reserve Bank of Richmond, as alternate.
+    </p>
+    <p>
+     Sandra Pianalto, President of the Federal Reserve Bank of Cleveland, with Charles L. Evans, President of the Federal Reserve Bank of Chicago, as alternate.
+    </p>
+    <p>
+     Richard W. Fisher, President of the Federal Reserve Bank of Dallas, with Dennis P. Lockhart, President of the Federal Reserve Bank of Atlanta, as alternate.
+    </p>
+    <p>
+     Gary H. Stern, President of the Federal Reserve Bank of Minneapolis, with Janet L. Yellen, President of the Federal Reserve Bank of San Francisco, as alternate.
+    </p>
+    <p>
+     By unanimous vote, the following officers of the Federal Open Market Committee were selected to serve until the selection of their successors at the first regularly scheduled meeting of the Committee in 2009:
+    </p>
+    <table border="0" cellpadding="0" cellspacing="0" summary="This table is used for formatting purposes only" width="400">
+     <tbody>
+      <tr>
+       <td>
+        Ben S. Bernanke
+       </td>
+       <td>
+        Chairman
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Timothy F. Geithner
+       </td>
+       <td>
+        Vice Chairman
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Brian F. Madigan
+       </td>
+       <td>
+        Secretary and Economist
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Deborah J. Danker
+       </td>
+       <td>
+        Deputy Secretary
+       </td>
+      </tr>
+      <tr>
+       <td>
+        David W. Skidmore
+       </td>
+       <td>
+        Assistant Secretary
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Michelle A. Smith
+       </td>
+       <td>
+        Assistant Secretary
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Scott G. Alvarez
+       </td>
+       <td>
+        General Counsel
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Thomas C. Baxter, Jr.
+       </td>
+       <td>
+        Deputy General Counsel
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Richard M. Ashton
+       </td>
+       <td>
+        Assistant General Counsel
+       </td>
+      </tr>
+      <tr>
+       <td>
+        D. Nathan Sheets
+       </td>
+       <td>
+        Economist
+       </td>
+      </tr>
+      <tr>
+       <td>
+        David J. Stockton
+       </td>
+       <td>
+        Economist
+       </td>
+      </tr>
+      <tr>
+       <td>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Thomas A. Connors
+       </td>
+      </tr>
+      <tr>
+       <td>
+        William B. English
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Steven B. Kamin
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Loretta J. Mester
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Arthur J. Rolnick
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Harvey Rosenblum
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Lawrence Slifman
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Mark S. Sniderman
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Joseph S. Tracy
+       </td>
+      </tr>
+      <tr>
+       <td>
+        David W. Wilcox
+       </td>
+       <td>
+        Associate Economists
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <p>
+     By unanimous vote, the Committee made a few amendments to its rules and to the Program for Security of FOMC Information. The amendments primarily addressed the Committee's practice of approving the minutes via notation vote, attendance at Committee meetings, and access to Committee information by System employees.
+    </p>
+    <p>
+     By unanimous vote, the Federal Reserve Bank of New York was selected to execute transactions for the System Open Market Account.
+    </p>
+    <p>
+     By unanimous vote, William C. Dudley was selected to serve at the pleasure of the Committee as Manager, System Open Market Account, on the understanding that his selection was subject to being satisfactory to the Federal Reserve Bank of New York.
+    </p>
+    <p>
+     By unanimous vote, the Authorization for Domestic Open Market Operations was reaffirmed in the form shown below:
+    </p>
+    <p>
+     AUTHORIZATION FOR DOMESTIC OPEN MARKET OPERATIONS
+     <br>
+      (Reaffirmed January 29, 2008)
+     </br>
+    </p>
+    <p>
+     1. The Federal Open Market Committee authorizes and directs the Federal Reserve Bank of New York, to the extent necessary to carry out the most recent domestic policy directive adopted at a meeting of the Committee:
+    </p>
+    <p>
+     (a) To buy or sell U.S. Government securities, including securities of the Federal Financing Bank, and securities that are direct obligations of, or fully guaranteed as to principal and interest by, any agency of the United States in the open market, from or to securities dealers and foreign and international accounts maintained at the Federal Reserve Bank of New York, on a cash, regular, or deferred delivery basis, for the System Open Market Account at market prices, and, for such Account, to exchange maturing U.S. Government and Federal agency securities with the Treasury or the individual agencies or to allow them to mature without replacement;
+    </p>
+    <p>
+     (b) To buy U.S. Government securities, obligations that are direct obligations of, or fully guaranteed as to principal and interest by, any agency of the United States, from dealers for the account of the System Open Market Account under agreements for repurchase of such securities or obligations in 65 business days or less, at rates that, unless otherwise expressly authorized by the Committee, shall be determined by competitive bidding, after applying reasonable limitations on the volume of agreements with individual dealers.
+    </p>
+    <p>
+     (c) To sell U.S. Government securities and obligations that are direct obligations of, or fully guaranteed as to principal and interest by, any agency of the United States to dealers for System Open Market Account under agreements for the resale by dealers of such securities or obligations in 65 business days or less, at rates that, unless otherwise expressly authorized by the Committee, shall be determined by competitive bidding, after applying reasonable limitations on the volume of agreements with individual dealers.
+    </p>
+    <p>
+     2. In order to ensure the effective conduct of open market operations, the Federal Open Market Committee authorizes the Federal Reserve Bank of New York to lend on an overnight basis U.S. Government securities held in the System Open Market Account to dealers at rates that shall be determined by competitive bidding. The Federal Reserve Bank of New York shall set a minimum lending fee consistent with the objectives of the program and apply reasonable limitations on the total amount of a specific issue that may be auctioned and on the amount of securities that each dealer may borrow. The Federal Reserve Bank of New York may reject bids which could facilitate a dealer's ability to control a single issue as determined solely by the Federal Reserve Bank of New York.
+    </p>
+    <p>
+     3. In order to ensure the effective conduct of open market operations, while assisting in the provision of short-term investments for foreign and international accounts maintained at the Federal Reserve Bank of New York and accounts maintained at the Federal Reserve Bank of New York as fiscal agent of the United States pursuant to Section 15 of the Federal Reserve Act, the Federal Open Market Committee authorizes and directs the Federal Reserve Bank of New York (a) for System Open Market Account, to sell U.S. Government securities to such accounts on the bases set forth in paragraph l(a) under agreements providing for the resale by such accounts of those securities in 65 business days or less on terms comparable to those available on such transactions in the market; and (b) for New York Bank account, when appropriate, to undertake with dealers, subject to the conditions imposed on purchases and sales of securities in paragraph l(b), repurchase agreements in U.S. Government and agency securities, and to arrange corresponding sale and repurchase agreements between its own account and such foreign, international, and fiscal agency accounts maintained at the Bank. Transactions undertaken with such accounts under the provisions of this paragraph may provide for a service fee when appropriate.
+    </p>
+    <p>
+     4. In the execution of the Committee's decision regarding policy during any intermeeting period, the Committee authorizes and directs the Federal Reserve Bank of New York, upon the instruction of the Chairman of the Committee, to adjust somewhat in exceptional circumstances the degree of pressure on reserve positions and hence the intended federal funds rate. Any such adjustment shall be made in the context of the Committee's discussion and decision at its most recent meeting and the Committee's long-run objectives for price stability and sustainable economic growth, and shall be based on economic, financial, and monetary developments during the intermeeting period. Consistent with Committee practice, the Chairman, if feasible, will consult with the Committee before making any adjustment.
+    </p>
+    <p>
+     By unanimous vote, the Committee approved the Authorization for Foreign Currency Operations with an amendment to paragraph 1.D. regarding the maximum open position in all foreign currencies. Accordingly, the Authorization for Foreign Currency Operations was adopted, as shown below:
+    </p>
+    <p>
+     AUTHORIZATION FOR FOREIGN CURRENCY OPERATIONS
+     <br>
+      (Amended January 29, 2008)
+     </br>
+    </p>
+    <p>
+     1. The Federal Open Market Committee authorizes and directs the Federal Reserve Bank of New York, for System Open Market Account, to the extent necessary to carry out the Committee's foreign currency directive and express authorizations by the Committee pursuant thereto, and in conformity with such procedural instructions as the Committee may issue from time to time:
+    </p>
+    <p>
+     A. To purchase and sell the following foreign currencies in the form of cable transfers through spot or forward transactions on the open market at home and abroad, including transactions with the U.S. Treasury, with the U.S. Exchange Stabilization Fund established by Section 10 of the Gold Reserve Act of 1934, with foreign monetary authorities, with the Bank for International Settlements, and with other international financial institutions:
+    </p>
+    <blockquote>
+     Canadian dollars
+     <br>
+      Danish kroner
+      <br>
+       Euro
+       <br>
+        Pounds sterling
+        <br>
+         Japanese yen
+         <br>
+          Mexican pesos
+          <br>
+           Norwegian kroner
+           <br>
+            Swedish kronor
+            <br>
+             Swiss francs
+             <br/>
+            </br>
+           </br>
+          </br>
+         </br>
+        </br>
+       </br>
+      </br>
+     </br>
+    </blockquote>
+    <p>
+     B. To hold balances of, and to have outstanding forward contracts to receive or to deliver, the foreign currencies listed in paragraph A above.
+    </p>
+    <p>
+     C. To draw foreign currencies and to permit foreign banks to draw dollars under the reciprocal currency arrangements listed in paragraph 2 below, provided that drawings by either party to any such arrangement shall be fully liquidated within 12 months after any amount outstanding at that time was first drawn, unless the Committee, because of exceptional circumstances, specifically authorizes a delay.
+    </p>
+    <p>
+     D. To maintain an overall open position in all foreign currencies not exceeding $25.0 billion. For this purpose, the overall open position in all foreign currencies is defined as the sum (disregarding signs) of net positions in individual currencies, excluding changes in dollar value due to foreign exchange rate movements and interest accruals. The net position in a single foreign currency is defined as holdings of balances in that currency, plus outstanding contracts for future receipt, minus outstanding contracts for future delivery of that currency, i.e., as the sum of these elements with due regard to sign.
+    </p>
+    <p>
+     2. The Federal Open Market Committee directs the Federal Reserve Bank of New York to maintain reciprocal currency arrangements ("swap" arrangements) for the System Open Market Account for periods up to a maximum of 12 months with the following foreign banks, which are among those designated by the Board of Governors of the Federal Reserve System under Section 214.5 of Regulation N, Relations with Foreign Banks and Bankers, and with the approval of the Committee to renew such arrangements on maturity:
+    </p>
+    <table border="0" cellpadding="0" cellspacing="0" width="400">
+     <tbody>
+      <tr>
+       <th align="left" scope="col">
+        Foreign bank
+       </th>
+       <th align="middle" scope="col">
+        Amount of arrangement
+        <br>
+         (millions of dollars equivalent)
+        </br>
+       </th>
+      </tr>
+      <tr>
+       <td>
+        Bank of Canada
+       </td>
+       <td align="center">
+        2,000
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Bank of Mexico
+       </td>
+       <td align="center">
+        3,000
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <p>
+     Any changes in the terms of existing swap arrangements, and the proposed terms of any new arrangements that may be authorized, shall be referred for review and approval to the Committee.
+    </p>
+   </hr>
+  </hr>
+ </p>
+</div>
