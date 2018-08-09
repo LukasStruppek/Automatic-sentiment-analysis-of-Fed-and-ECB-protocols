@@ -498,7 +498,7 @@
           </a>
          </li>
          <li>
-          <a class="sr-only-focusable" href="/monetarypolicy/quarterly-balance-sheet-developments-report.htm">
+          <a class="sr-only-focusable" href="/monetarypolicy/2018-quarterly-report-on-federal-reserve-balance-sheet-developments-abbreviations.htm">
            Quarterly Report on Federal Reserve Balance Sheet Developments
           </a>
          </li>
@@ -956,14 +956,14 @@
       </li>
      </ul>
     </li>
-    <li class="dropdown nav-data dropdown--right dropdown--4Col" role="menuitem">
+    <li class="dropdown nav-data dropdown--right dropdown--fw" role="menuitem">
      <a aria-haspopup="true" class="sr-only-focusable" href="/data.htm" id="dataMenu">
       Data
      </a>
      <ul aria-labelledby="dataMenu" class="dropdown-menu sub-nav-group navmenu-nav" role="menu">
       <li>
        <div class="row">
-        <ul class="col-sm-3 list-unstyled">
+        <ul class="col-sm-3 col-nav list-unstyled">
          <li class="nav__header">
           <p>
            <strong>
@@ -996,13 +996,8 @@
            Senior Loan Officer Opinion Survey on Bank Lending Practices
           </a>
          </li>
-         <li>
-          <a class="sr-only-focusable" href="/releases/e2/current/">
-           Survey of Terms of Business Lending - E.2
-          </a>
-         </li>
         </ul>
-        <ul class="col-sm-3 list-unstyled">
+        <ul class="col-sm-3 list-unstyled col-nav">
          <li class="nav__header">
           <p>
            <strong>
@@ -1060,12 +1055,12 @@
           </p>
          </li>
          <li>
-          <a class="sr-only-focusable" href="/data/scoos/scoos.htm">
+          <a class="sr-only-focusable" href="/data/scoos.htm">
            Senior Credit Officer Opinion Survey on Dealer Financing Terms
           </a>
          </li>
         </ul>
-        <ul class="col-sm-3 list-unstyled">
+        <ul class="col-sm-3 list-unstyled col-nav">
          <li class="nav__header">
           <p>
            <strong>
@@ -1111,7 +1106,7 @@
           </a>
          </li>
         </ul>
-        <ul class="col-sm-3 list-unstyled">
+        <ul class="col-sm-3 list-unstyled col-nav">
          <li class="nav__header">
           <p>
            <strong>
@@ -1163,6 +1158,8 @@
            Selected Interest Rates - H.15
           </a>
          </li>
+        </ul>
+        <ul class="col-sm-3 list-unstyled col-nav">
          <li class="nav__header">
           <p>
            <strong>
@@ -1190,6 +1187,11 @@
          <li>
           <a class="sr-only-focusable" href="/releases/h6/current/default.htm">
            Money Stock Measures - H.6
+          </a>
+         </li>
+         <li>
+          <a class="sr-only-focusable" href="/data/scoos.htm">
+           Senior Credit Officer Opinion Survey on Dealer Financing Terms
           </a>
          </li>
         </ul>
