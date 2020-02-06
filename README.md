@@ -1,5 +1,4 @@
-# Textual-analysis-of-ECB-and-Fed-protocols
-Automatic sentiment analysis of Fed protocols
+# Automatic sentiment analysis of Fed and ECB protocols
 
 In this project a machine learning approach is implemented and applied for
 analyzing meeting minutes of the [Federal Open Market Committee (FOMC)](https://www.federalreserve.gov/monetarypolicy/fomc.htm), as well
